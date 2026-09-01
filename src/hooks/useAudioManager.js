@@ -10,9 +10,11 @@ export default function useAudioManager(isLoadingComplete) {
     bgMusicRef.current = new Audio('/hub/bg-music.mp3')
     bgMusicRef.current.loop = true
     bgMusicRef.current.volume = 0.08
+    bgMusicRef.current.preload = 'auto'
 
     clickSoundRef.current = new Audio('/hub/click-sound.wav')
     clickSoundRef.current.volume = 0.25
+    clickSoundRef.current.preload = 'auto'
 
     return () => {
       if (bgMusicRef.current) {
@@ -58,6 +60,23 @@ export default function useAudioManager(isLoadingComplete) {
 
     return () => {
       document.removeEventListener('visibilitychange', handleVisibilityChange)
+    }
+  }, [isMuted, isLoadingComplete])
+
+  useEffect(() => {
+    if (!isLoadingComplete || isMuted) return undefined
+
+    const playBgMusic = () => {
+      if (!bgMusicRef.current || !bgMusicRef.current.paused) return
+      bgMusicRef.current.play().catch(() => {})
+    }
+
+    document.addEventListener('click', playBgMusic)
+    document.addEventListener('keydown', playBgMusic)
+
+    return () => {
+      document.removeEventListener('click', playBgMusic)
+      document.removeEventListener('keydown', playBgMusic)
     }
   }, [isMuted, isLoadingComplete])
 

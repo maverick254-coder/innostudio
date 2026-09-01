@@ -10,7 +10,7 @@ import useGsapScrollSystem from '../hooks/useGsapScrollSystem.js'
 function Layout() {
   const location = useLocation()
   const outlet = useOutlet()
-  const [isLoadingComplete, setIsLoadingComplete] = useState(false)
+  const [isLoadingComplete, setIsLoadingComplete] = useState(() => location.pathname !== '/')
   const { isMuted, toggleMute } = useAudioManager(isLoadingComplete)
 
   useCursorEffects()
