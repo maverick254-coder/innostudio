@@ -15,7 +15,16 @@ export default async function handler(request) {
   const fromEmail = process.env.CONTACT_FROM_EMAIL
 
   if (!resendApiKey || !fromEmail) {
-    return Response.json({ error: 'Email service is not configured' }, { status: 500 })
+    const missing = [
+      !resendApiKey && 'RESEND_API_KEY',
+      !fromEmail && 'CONTACT_FROM_EMAIL',
+    ].filter(Boolean)
+
+    console.error(`Email service is not configured. Missing: ${missing.join(', ')}`)
+
+    return Response.json({
+      error: 'Email service is not configured',
+    }, { status: 500 })
   }
 
   let payload
@@ -51,8 +60,10 @@ export default async function handler(request) {
 
     return Response.json({ ok: true })
   } catch (error) {
+    console.error('Unable to send contact message:', error)
+
     return Response.json({
-      error: error.message || 'Unable to send message',
+      error: 'Unable to send message',
     }, { status: 500 })
   }
 }

@@ -11,9 +11,10 @@ function Contact() {
 
   const handleSubmit = async (event) => {
     event.preventDefault()
+    const form = event.currentTarget
     setStatusMessage('')
 
-    const formData = new FormData(event.currentTarget)
+    const formData = new FormData(form)
     const name = formData.get('name')?.toString().trim()
     const email = formData.get('email')?.toString().trim()
     const message = formData.get('message')?.toString().trim()
@@ -37,15 +38,15 @@ function Contact() {
       const result = await response.json().catch(() => ({}))
 
       if (!response.ok || !result.ok) {
-        throw new Error(result.error || 'Something went wrong. Please try again.')
+        throw new Error(result.error || 'Request failed')
       }
 
-      event.currentTarget.reset()
+      form.reset()
       setSubmitState('sent')
-      setStatusMessage('Message sent. I will get back to you soon.')
-    } catch (error) {
+      setStatusMessage("Sent! I'll take it from here.")
+    } catch {
       setSubmitState('error')
-      setStatusMessage(error.message || 'Something went wrong. Please try again.')
+      setStatusMessage('Something went wrong. Try again.')
     }
   }
   
