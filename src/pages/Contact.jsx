@@ -98,7 +98,6 @@ function Contact() {
             </button>
 
             <p className="contact-status" aria-live="polite">
-              {submitState === 'sending' && 'Sending...'}
               {submitState !== 'sending' && statusMessage}
             </p>
           </form>
