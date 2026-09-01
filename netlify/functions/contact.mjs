@@ -26,11 +26,7 @@ export default async function handler(request) {
     return Response.json({ error: 'Invalid request body' }, { status: 400 })
   }
 
-  const { name, email, message, company } = payload || {}
-
-  if (company) {
-    return Response.json({ ok: true })
-  }
+  const { name, email, message } = payload || {}
 
   if (!name || !email || !message) {
     return Response.json({ error: 'Name, email, and message are required' }, { status: 400 })
@@ -54,8 +50,10 @@ export default async function handler(request) {
     })
 
     return Response.json({ ok: true })
-  } catch {
-    return Response.json({ error: 'Unable to send message' }, { status: 500 })
+  } catch (error) {
+    return Response.json({
+      error: error.message || 'Unable to send message',
+    }, { status: 500 })
   }
 }
 

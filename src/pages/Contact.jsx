@@ -7,17 +7,16 @@ function Contact() {
   const { motion, variants } = usePageAnimation()
   const MotionDiv = motion.div
   const [submitState, setSubmitState] = useState('idle')
+  const [statusMessage, setStatusMessage] = useState('')
 
   const handleSubmit = async (event) => {
     event.preventDefault()
+    setStatusMessage('')
 
     const formData = new FormData(event.currentTarget)
     const name = formData.get('name')?.toString().trim()
     const email = formData.get('email')?.toString().trim()
     const message = formData.get('message')?.toString().trim()
-    const company = formData.get('company')?.toString().trim()
-
-    if (company) return
 
     setSubmitState('sending')
 
@@ -32,18 +31,21 @@ function Contact() {
           name,
           email,
           message,
-          company,
         }),
       })
 
-      if (!response.ok) {
-        throw new Error('Contact form request failed')
+      const result = await response.json().catch(() => ({}))
+
+      if (!response.ok || !result.ok) {
+        throw new Error(result.error || 'Something went wrong. Please try again.')
       }
 
       event.currentTarget.reset()
       setSubmitState('sent')
-    } catch {
+      setStatusMessage('Message sent. I will get back to you soon.')
+    } catch (error) {
       setSubmitState('error')
+      setStatusMessage(error.message || 'Something went wrong. Please try again.')
     }
   }
   
@@ -76,15 +78,6 @@ function Contact() {
           </div>
 
           <form className="contact-form" onSubmit={handleSubmit}>
-            <input
-              type="text"
-              name="company"
-              className="contact-honey"
-              tabIndex="-1"
-              autoComplete="off"
-              aria-hidden="true"
-            />
-
             <label className="contact-field">
               <span>Name</span>
               <input type="text" name="name" autoComplete="name" required />
@@ -105,8 +98,8 @@ function Contact() {
             </button>
 
             <p className="contact-status" aria-live="polite">
-              {submitState === 'sent' && 'Message sent. I will get back to you soon.'}
-              {submitState === 'error' && 'Something went wrong. Please try again.'}
+              {submitState === 'sending' && 'Sending...'}
+              {submitState !== 'sending' && statusMessage}
             </p>
           </form>
         </section>
