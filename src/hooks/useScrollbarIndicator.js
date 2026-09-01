@@ -4,6 +4,7 @@ import gsap from 'gsap'
 export function useScrollbarIndicator() {
   const loadingAnimationRef = useRef(null)
   const isLoadingRef = useRef(false)
+  const scrollContainerRef = useRef(null)
 
   useEffect(() => {
     const spreadDistance = 22 // gradient spread radius
@@ -12,12 +13,15 @@ export function useScrollbarIndicator() {
       // Only update from scroll if not loading
       if (isLoadingRef.current) return
 
-      const windowHeight = window.innerHeight
-      const documentHeight = document.documentElement.scrollHeight
-      const scrollTop = window.scrollY || document.documentElement.scrollTop
+      const scrollContainer = scrollContainerRef.current
+      if (!scrollContainer) return
+
+      const viewportHeight = scrollContainer.clientHeight
+      const scrollHeight = scrollContainer.scrollHeight
+      const scrollTop = scrollContainer.scrollTop
 
       // Calculate scrollbar thumb position as percentage of total document height
-      const maxScroll = documentHeight - windowHeight
+      const maxScroll = scrollHeight - viewportHeight
       const thumbPosPercent = maxScroll > 0 ? (scrollTop / maxScroll) * 100 : 0
 
       // Calculate color stop positions for the gradient
@@ -92,6 +96,20 @@ export function useScrollbarIndicator() {
       updateScrollbar()
     }
 
+    const resolveScrollContainer = () => {
+      scrollContainerRef.current = document.querySelector('.page-transition')
+      return scrollContainerRef.current
+    }
+
+    const handleContainerScroll = () => {
+      updateScrollbar()
+    }
+
+    const scrollContainer = resolveScrollContainer()
+    if (scrollContainer) {
+      scrollContainer.addEventListener('scroll', handleContainerScroll, { passive: true })
+    }
+
     // Expose functions globally for page navigation triggers
     if (typeof window !== 'undefined') {
       window.startScrollbarLoadingAnimation = startLoadingAnimation
@@ -101,15 +119,15 @@ export function useScrollbarIndicator() {
     // Set initial scroll position
     updateScrollbar()
 
-    // Update on scroll with smooth tracking
-    window.addEventListener('scroll', updateScrollbar, { passive: true })
-
     // Update on resize
     window.addEventListener('resize', updateScrollbar)
 
     return () => {
-      window.removeEventListener('scroll', updateScrollbar)
       window.removeEventListener('resize', updateScrollbar)
+
+      if (scrollContainerRef.current) {
+        scrollContainerRef.current.removeEventListener('scroll', handleContainerScroll)
+      }
 
       if (loadingAnimationRef.current) {
         loadingAnimationRef.current.kill()

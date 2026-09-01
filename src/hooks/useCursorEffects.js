@@ -37,7 +37,11 @@ export default function useCursorEffects() {
     const resolveHoverState = (element) => {
       if (!element) return 'default'
 
-      if (element.closest('a, button, .logo, [role="button"], input, textarea, select, label')) {
+      if (
+        element.closest(
+          'a, button, .logo, [role="button"], input, textarea, select, label, .works-project-card, .works-project-title, .works-project-media, .works-project-image'
+        )
+      ) {
         return 'small'
       }
 

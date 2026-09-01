@@ -5,6 +5,7 @@ import { NavigationDirectionProvider } from '../hooks/NavigationDirectionContext
 import useCursorEffects from '../hooks/useCursorEffects.js'
 import useAudioManager from '../hooks/useAudioManager.js'
 import useScrollbarIndicator from '../hooks/useScrollbarIndicator.js'
+import useGsapScrollSystem from '../hooks/useGsapScrollSystem.js'
 
 function Layout() {
   const location = useLocation()
@@ -14,6 +15,14 @@ function Layout() {
 
   useCursorEffects()
   useScrollbarIndicator()
+  useGsapScrollSystem(location.pathname)
+
+  const handleExitComplete = () => {
+    const scrollContainer = document.querySelector('.page-transition')
+    if (scrollContainer) {
+      scrollContainer.scrollTo({ top: 0, behavior: 'auto' })
+    }
+  }
 
   // Handle scrollbar loading animation on page navigation
   useEffect(() => {
@@ -28,14 +37,24 @@ function Layout() {
         }
       }, 750)
 
-      return () => clearTimeout(timeoutId)
+      return () => {
+        clearTimeout(timeoutId)
+      }
     }
   }, [location.pathname])
 
   // Expose loading state setter to children via context or window
-  if (typeof window !== 'undefined' && !window.setAudioLoadingComplete) {
+  useEffect(() => {
+    if (typeof window === 'undefined' || window.setAudioLoadingComplete) return undefined
+
     window.setAudioLoadingComplete = () => setIsLoadingComplete(true)
-  }
+
+    return () => {
+      if (window.setAudioLoadingComplete) {
+        delete window.setAudioLoadingComplete
+      }
+    }
+  }, [])
 
   return (
     <>
@@ -167,7 +186,13 @@ function Layout() {
         </nav>
 
         <div className="sidebar-footer">
-          <a href="mailto:nyalikotieno@gmail.com">Email</a>
+          <a
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=innocentnyalik@gmail.com"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Email
+          </a>
           <span className="separator">·</span>
           <a href="https://www.linkedin.com/in/innocent-nyalik-0002b9390" target="_blank" rel="noreferrer">LinkedIn</a>
           <span className="separator">·</span>
@@ -191,7 +216,7 @@ function Layout() {
 
       <NavigationDirectionProvider>
         <div className="page-transition">
-          <AnimatePresence mode="wait" initial={false}>
+          <AnimatePresence mode="wait" initial={false} onExitComplete={handleExitComplete}>
             {outlet ? cloneElement(outlet, { key: location.pathname }) : null}
           </AnimatePresence>
         </div>
