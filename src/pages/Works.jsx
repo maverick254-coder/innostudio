@@ -1,5 +1,8 @@
 import { usePageAnimation } from '../hooks/usePageAnimation'
 import { useEffect, useRef, useState } from 'react'
+import { Link, useLocation, useNavigate } from 'react-router-dom'
+import { projects } from '../data/projects.js'
+import { getScrollContainer, scrollElementTo, startProjectEntryTransition } from '../utils/projectTransition.js'
 
 const valueItems = [
   {
@@ -28,43 +31,85 @@ const valueItems = [
   },
 ]
 
-const projectItems = [
-  {
-    id: 'echo-dashboard',
-    title: 'Echo Dashboard',
-    image: '/hub/work-land.png',
-    alt: 'Echo Dashboard project preview',
-    variant: 'large',
-  },
-  {
-    id: 'orbital-commerce',
-    title: 'Orbital Commerce',
-    image: '/hub/background-texture.png',
-    alt: 'Orbital Commerce project preview',
-    variant: 'medium',
-  },
-  {
-    id: 'foundry-labs',
-    title: 'Foundry Labs',
-    image: '/hub/background-texture.png',
-    alt: 'Foundry Labs project preview',
-    variant: 'medium',
-  },
-  {
-    id: 'north-canvas',
-    title: 'North Canvas',
-    image: '/hub/work-land.png',
-    alt: 'North Canvas project preview',
-    variant: 'large',
-  },
-]
+function MightyCover() {
+  return (
+    <div className="works-mighty-cover" aria-label="Mighty Demo project preview">
+      <div className="works-mighty-cover-nav">
+        <strong>MIGHTY</strong>
+        <span>Projects</span>
+        <span>Studio</span>
+        <span>Contact</span>
+      </div>
+      <div className="works-mighty-cover-copy">
+        <span>01 / 06</span>
+        <strong>Digital experiences for people who care how things feel.</strong>
+      </div>
+      <div className="works-mighty-cover-panel">
+        <span>Selected work</span>
+        <strong>2026</strong>
+      </div>
+      <div className="works-mighty-cover-phone" aria-hidden="true">
+        <span></span>
+        <p>Made for motion.</p>
+      </div>
+      <div className="works-mighty-cover-dots" aria-hidden="true"></div>
+    </div>
+  )
+}
+
+function ProjectCover({ project }) {
+  if (project.cover.kind === 'mighty-system') {
+    return <MightyCover />
+  }
+
+  return <img src={project.cover.src} alt={project.cover.alt} className="works-project-image" loading="lazy" />
+}
 
 function Works() {
   const { motion, variants } = usePageAnimation()
+  const MotionDiv = motion.div
+  const location = useLocation()
+  const navigate = useNavigate()
   const projectsRef = useRef(null)
   const leftColumnRef = useRef(null)
   const rightColumnRef = useRef(null)
+  const pendingProjectScrollRef = useRef(null)
   const [showScrollCue, setShowScrollCue] = useState(true)
+
+  const getCurrentWorksScroll = () => {
+    const scrollContainer = getScrollContainer()
+    return scrollContainer?.scrollTop || 0
+  }
+
+  const captureProjectScroll = () => {
+    pendingProjectScrollRef.current = getCurrentWorksScroll()
+  }
+
+  const openProject = (event, project) => {
+    startProjectEntryTransition({
+      event,
+      navigate,
+      project,
+      worksScrollY: pendingProjectScrollRef.current ?? getCurrentWorksScroll(),
+    })
+    pendingProjectScrollRef.current = null
+  }
+
+  useEffect(() => {
+    if (!location.state?.projectReturn) return undefined
+
+    let frameId = requestAnimationFrame(() => {
+      const scrollContainer = getScrollContainer()
+      scrollElementTo(scrollContainer, location.state.restoreScrollY || 0)
+      requestAnimationFrame(() => {
+        window.dispatchEvent(new CustomEvent('innostudio:works-ready'))
+      })
+    })
+
+    return () => {
+      cancelAnimationFrame(frameId)
+    }
+  }, [location.state])
 
   useEffect(() => {
     const scrollContainer = document.querySelector('.page-transition')
@@ -156,9 +201,9 @@ function Works() {
       }
     }
   }, [])
-  
+
   return (
-    <motion.div
+    <MotionDiv
       id="page-content"
       className="page-content works-page"
       initial="initial"
@@ -205,30 +250,42 @@ function Works() {
         <section ref={projectsRef} className="works-projects" aria-label="Selected projects">
           <div className="works-projects-grid">
             <div ref={leftColumnRef} className="works-projects-column">
-              {projectItems.slice(0, 2).map((project) => (
-                <article key={project.id} className={`works-project-card ${project.variant}`} tabIndex={0}>
+              {projects.slice(0, 3).map((project) => (
+                <Link
+                  key={project.id}
+                  to={`/work/${project.slug}`}
+                  className={`works-project-card ${project.card.variant}`}
+                  onPointerDownCapture={captureProjectScroll}
+                  onClick={(event) => openProject(event, project)}
+                >
                   <h3 className="works-project-title">{project.title}</h3>
                   <div className="works-project-media">
-                    <img src={project.image} alt={project.alt} className="works-project-image" loading="lazy" />
+                    <ProjectCover project={project} />
                   </div>
-                </article>
+                </Link>
               ))}
             </div>
 
             <div ref={rightColumnRef} className="works-projects-column">
-              {projectItems.slice(2).map((project) => (
-                <article key={project.id} className={`works-project-card ${project.variant}`} tabIndex={0}>
+              {projects.slice(3).map((project) => (
+                <Link
+                  key={project.id}
+                  to={`/work/${project.slug}`}
+                  className={`works-project-card ${project.card.variant}`}
+                  onPointerDownCapture={captureProjectScroll}
+                  onClick={(event) => openProject(event, project)}
+                >
                   <h3 className="works-project-title">{project.title}</h3>
                   <div className="works-project-media">
-                    <img src={project.image} alt={project.alt} className="works-project-image" loading="lazy" />
+                    <ProjectCover project={project} />
                   </div>
-                </article>
+                </Link>
               ))}
             </div>
           </div>
         </section>
       </div>
-    </motion.div>
+    </MotionDiv>
   )
 }
 

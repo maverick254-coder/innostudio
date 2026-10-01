@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+        
+    <style>
+      .brand{font:900 30px Montserrat,Arial,sans-serif;letter-spacing:6px}
+      .nav{font:800 15px Work Sans,Arial,sans-serif;letter-spacing:2px}
+      .kicker{font:800 17px Work Sans,Arial,sans-serif;letter-spacing:3px}
+      .serif{font:900 90px Georgia,serif;line-height:1}
+      .serif-sm{font:900 48px Georgia,serif}
+      .body{font:500 27px Work Sans,Arial,sans-serif}
+      .body-sm{font:600 20px Work Sans,Arial,sans-serif}
+      .label{font:800 14px Work Sans,Arial,sans-serif;letter-spacing:2px}
+    </style>
+  
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="2.5" fill="#111111" opacity=".82"/>
+      <circle cx="14" cy="14" r="1.8" fill="#ff5b3d" opacity=".8"/>
+    </pattern>
+  
+    <pattern id="waves" width="120" height="28" patternUnits="userSpaceOnUse">
+      <path d="M0 14 C30 0 60 28 90 14 C105 7 114 6 120 8" fill="none" stroke="#ffffff" stroke-opacity=".14" stroke-width="2"/>
+    </pattern>
+  
+        <rect width="1440" height="900" fill="#ffcb00"/>
+        
+    <rect x="42" y="36" width="1356" height="38" rx="19" fill="#111111" opacity=".08"/>
+    <circle cx="68" cy="55" r="6" fill="#111111" opacity=".42"/>
+    <circle cx="88" cy="55" r="6" fill="#111111" opacity=".34"/>
+    <circle cx="108" cy="55" r="6" fill="#111111" opacity=".26"/>
+  
+    <text x="82" y="130" class="brand" fill="#111111">MIGHTY</text>
+    <text x="232" y="130" class="nav" fill="#111111">WORK</text>
+    <text x="312" y="130" class="nav" fill="#111111">STUDIO</text>
+    <text x="412" y="130" class="nav" fill="#111111">SERVICES</text>
+    <text x="537" y="130" class="nav" fill="#111111">CONTACT</text>
+  
+        <rect x="1005" y="0" width="435" height="900" fill="#050505"/>
+        <rect x="1005" y="0" width="435" height="900" fill="url(#waves)"/>
+        <circle cx="980" cy="680" r="260" fill="url(#dots)" opacity=".85"/>
+        <text x="160" y="310" class="kicker" fill="#111111">SELECTED WORK / 2026</text>
+        <text x="160" y="430" class="serif" fill="#111111">Digital experiences</text>
+        <text x="160" y="520" class="serif" fill="#111111">for people who care</text>
+        <text x="160" y="610" class="serif" fill="#111111">how things feel.</text>
+        <text x="165" y="690" class="body" fill="#111111">Editorial rhythm, useful motion, and launch systems</text>
+        <text x="165" y="730" class="body" fill="#111111">built with enough care to feel inevitable.</text>
+        <rect x="760" y="245" width="310" height="430" fill="#f4f1ec"/>
+        <text x="805" y="325" class="label" fill="#111111">CASE INDEX</text>
+        <text x="805" y="385" class="serif-sm" fill="#111111">01 / 06</text>
+        <text x="805" y="445" class="body-sm" fill="#111111">Made for motion.</text>
+        <rect x="150" y="790" width="190" height="64" fill="#111111"/><text x="183" y="831" class="label" fill="#ffcb00">STRATEGY</text>
+        <rect x="360" y="790" width="190" height="64" fill="#111111"/><text x="396" y="831" class="label" fill="#ffcb00">INTERFACE</text>
+        <rect x="570" y="790" width="190" height="64" fill="#111111"/><text x="616" y="831" class="label" fill="#ffcb00">MOTION</text>
+      </svg>

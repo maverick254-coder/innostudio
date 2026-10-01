@@ -1,0 +1,232 @@
+{
+  "states": [
+    {
+      "label": "01-hover-live",
+      "state": {
+        "t": 5913.9,
+        "path": "/works",
+        "body": "",
+        "stage": false,
+        "transitionAtmosphere": null,
+        "worksLayer": null,
+        "projectLayer": null,
+        "liveSidebar": null,
+        "cloneSidebar": null,
+        "liveCover": {
+          "x": 431.472,
+          "y": 667.481,
+          "width": 429.057,
+          "height": 268.16,
+          "transform": "matrix(1.0414, 0, 0, 1.0414, 0, 0)",
+          "filter": "brightness(0.817841) saturate(0.93376)",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgb(255, 201, 0)"
+        },
+        "cloneCover": null,
+        "cursor": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "transform": "none",
+          "filter": "none",
+          "opacity": "0",
+          "visibility": "visible",
+          "background": "rgb(255, 115, 0)"
+        }
+      }
+    },
+    {
+      "label": "02-pointer-down",
+      "state": {
+        "t": 6286.4,
+        "path": "/works",
+        "body": "",
+        "stage": false,
+        "transitionAtmosphere": null,
+        "worksLayer": null,
+        "projectLayer": null,
+        "liveSidebar": null,
+        "cloneSidebar": null,
+        "liveCover": {
+          "x": 429.7,
+          "y": 666.344,
+          "width": 432.6,
+          "height": 270.375,
+          "transform": "matrix(1.05, 0, 0, 1.05, 0, 0)",
+          "filter": "brightness(0.78) saturate(0.92)",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgb(255, 201, 0)"
+        },
+        "cloneCover": null,
+        "cursor": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "transform": "none",
+          "filter": "none",
+          "opacity": "0",
+          "visibility": "visible",
+          "background": "rgb(255, 115, 0)"
+        }
+      }
+    },
+    {
+      "label": "03-first-stage",
+      "state": {
+        "t": 6617.9,
+        "path": "/work/mighty-demo",
+        "body": "project-transition-lock project-route-transition-active",
+        "stage": true,
+        "transitionAtmosphere": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900,
+          "transform": "none",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgb(36, 36, 36)"
+        },
+        "worksLayer": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        "projectLayer": null,
+        "liveSidebar": null,
+        "cloneSidebar": {
+          "x": 0,
+          "y": 0,
+          "width": 360,
+          "height": 900,
+          "transform": "none",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        "liveCover": {
+          "x": 429.7,
+          "y": 666.344,
+          "width": 432.6,
+          "height": 270.375,
+          "transform": "matrix(1.05, 0, 0, 1.05, 0, 0)",
+          "filter": "brightness(0.78) saturate(0.92)",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgb(255, 201, 0)"
+        },
+        "cloneCover": {
+          "x": 429.7,
+          "y": 666.344,
+          "width": 432.6,
+          "height": 270.375,
+          "transform": "matrix(1.05, 0, 0, 1.05, 0, 0)",
+          "filter": "brightness(0.78) saturate(0.92)",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgb(255, 201, 0)"
+        },
+        "cursor": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "transform": "none",
+          "filter": "none",
+          "opacity": "0",
+          "visibility": "visible",
+          "background": "rgb(255, 115, 0)"
+        }
+      }
+    },
+    {
+      "label": "04-first-moving",
+      "state": {
+        "t": 7063.1,
+        "path": "/work/mighty-demo",
+        "body": "project-transition-lock project-route-transition-active",
+        "stage": true,
+        "transitionAtmosphere": {
+          "x": -855.2,
+          "y": 0,
+          "width": 1440,
+          "height": 900,
+          "transform": "none",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgb(36, 36, 36)"
+        },
+        "worksLayer": {
+          "x": -855.2,
+          "y": 0,
+          "width": 1440,
+          "height": 900,
+          "transform": "matrix(1, 0, 0, 1, -855.2, 0)",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        "projectLayer": {
+          "x": 584.8,
+          "y": 0,
+          "width": 1440,
+          "height": 6802,
+          "transform": "matrix(1, 0, 0, 1, 584.8, 0)",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        "liveSidebar": null,
+        "cloneSidebar": {
+          "x": -213.8,
+          "y": 0,
+          "width": 360,
+          "height": 900,
+          "transform": "none",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgba(0, 0, 0, 0)"
+        },
+        "liveCover": null,
+        "cloneCover": {
+          "x": -425.5,
+          "y": 666.344,
+          "width": 432.6,
+          "height": 270.375,
+          "transform": "matrix(1.05, 0, 0, 1.05, 0, 0)",
+          "filter": "brightness(0.78) saturate(0.92)",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgb(255, 201, 0)"
+        },
+        "cursor": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "transform": "none",
+          "filter": "none",
+          "opacity": "0",
+          "visibility": "visible",
+          "background": "rgb(255, 115, 0)"
+        }
+      }
+    }
+  ]
+}

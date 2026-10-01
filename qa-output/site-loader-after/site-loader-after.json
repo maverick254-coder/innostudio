@@ -1,0 +1,292 @@
+{
+  "createdAt": "2026-09-30T15:00:43.593Z",
+  "routes": [
+    {
+      "pathname": "/",
+      "records": [
+        {
+          "label": "start",
+          "delay": 80,
+          "screenshot": "M:/projects za inno/websites/innostudio/qa-output/site-loader-after/home-start.png",
+          "state": {
+            "path": "/",
+            "loaderPresent": true,
+            "body": "site-loader-active no-scroll",
+            "loaderTransform": "none",
+            "loaderOpacity": "1",
+            "maskHeight": "2.40625px",
+            "contentPresent": true,
+            "contentClass": "home-page",
+            "atmosphereCount": 1,
+            "loaderDotLayer": true
+          }
+        },
+        {
+          "label": "mid-fill",
+          "delay": 760,
+          "screenshot": "M:/projects za inno/websites/innostudio/qa-output/site-loader-after/home-mid-fill.png",
+          "state": {
+            "path": "/",
+            "loaderPresent": true,
+            "body": "site-loader-active no-scroll",
+            "loaderTransform": "none",
+            "loaderOpacity": "1",
+            "maskHeight": "86.7812px",
+            "contentPresent": true,
+            "contentClass": "home-page",
+            "atmosphereCount": 1,
+            "loaderDotLayer": true
+          }
+        },
+        {
+          "label": "hold",
+          "delay": 1420,
+          "screenshot": "M:/projects za inno/websites/innostudio/qa-output/site-loader-after/home-hold.png",
+          "state": {
+            "path": "/",
+            "loaderPresent": true,
+            "body": "site-loader-active no-scroll",
+            "loaderTransform": "matrix(1, 0, 0, 1, 0, -248.839)",
+            "loaderOpacity": "1",
+            "maskHeight": "88.25px",
+            "contentPresent": true,
+            "contentClass": "home-page",
+            "atmosphereCount": 1,
+            "loaderDotLayer": true
+          }
+        },
+        {
+          "label": "exit",
+          "delay": 1860,
+          "screenshot": "M:/projects za inno/websites/innostudio/qa-output/site-loader-after/home-exit.png",
+          "state": {
+            "path": "/",
+            "loaderPresent": false,
+            "body": "",
+            "loaderTransform": null,
+            "loaderOpacity": null,
+            "maskHeight": null,
+            "contentPresent": true,
+            "contentClass": "home-page",
+            "atmosphereCount": 1,
+            "loaderDotLayer": false
+          }
+        },
+        {
+          "label": "settled",
+          "delay": 2600,
+          "screenshot": "M:/projects za inno/websites/innostudio/qa-output/site-loader-after/home-settled.png",
+          "state": {
+            "path": "/",
+            "loaderPresent": false,
+            "body": "",
+            "loaderTransform": null,
+            "loaderOpacity": null,
+            "maskHeight": null,
+            "contentPresent": true,
+            "contentClass": "home-page",
+            "atmosphereCount": 1,
+            "loaderDotLayer": false
+          }
+        }
+      ]
+    },
+    {
+      "pathname": "/about",
+      "records": [
+        {
+          "label": "start",
+          "delay": 80,
+          "screenshot": "M:/projects za inno/websites/innostudio/qa-output/site-loader-after/about-start.png",
+          "state": {
+            "path": "/about",
+            "loaderPresent": true,
+            "body": "site-loader-active no-scroll",
+            "loaderTransform": "none",
+            "loaderOpacity": "1",
+            "maskHeight": "3.21875px",
+            "contentPresent": true,
+            "contentClass": "page-content about-page",
+            "atmosphereCount": 1,
+            "loaderDotLayer": true
+          }
+        },
+        {
+          "label": "mid-fill",
+          "delay": 760,
+          "screenshot": "M:/projects za inno/websites/innostudio/qa-output/site-loader-after/about-mid-fill.png",
+          "state": {
+            "path": "/about",
+            "loaderPresent": true,
+            "body": "site-loader-active no-scroll",
+            "loaderTransform": "none",
+            "loaderOpacity": "1",
+            "maskHeight": "85.0156px",
+            "contentPresent": true,
+            "contentClass": "page-content about-page",
+            "atmosphereCount": 1,
+            "loaderDotLayer": true
+          }
+        },
+        {
+          "label": "hold",
+          "delay": 1420,
+          "screenshot": "M:/projects za inno/websites/innostudio/qa-output/site-loader-after/about-hold.png",
+          "state": {
+            "path": "/about",
+            "loaderPresent": true,
+            "body": "site-loader-active no-scroll",
+            "loaderTransform": "matrix(1, 0, 0, 1, 0, -111.173)",
+            "loaderOpacity": "1",
+            "maskHeight": "88.25px",
+            "contentPresent": true,
+            "contentClass": "page-content about-page",
+            "atmosphereCount": 1,
+            "loaderDotLayer": true
+          }
+        },
+        {
+          "label": "exit",
+          "delay": 1860,
+          "screenshot": "M:/projects za inno/websites/innostudio/qa-output/site-loader-after/about-exit.png",
+          "state": {
+            "path": "/about",
+            "loaderPresent": false,
+            "body": "",
+            "loaderTransform": null,
+            "loaderOpacity": null,
+            "maskHeight": null,
+            "contentPresent": true,
+            "contentClass": "page-content about-page",
+            "atmosphereCount": 1,
+            "loaderDotLayer": false
+          }
+        },
+        {
+          "label": "settled",
+          "delay": 2600,
+          "screenshot": "M:/projects za inno/websites/innostudio/qa-output/site-loader-after/about-settled.png",
+          "state": {
+            "path": "/about",
+            "loaderPresent": false,
+            "body": "",
+            "loaderTransform": null,
+            "loaderOpacity": null,
+            "maskHeight": null,
+            "contentPresent": true,
+            "contentClass": "page-content about-page",
+            "atmosphereCount": 1,
+            "loaderDotLayer": false
+          }
+        }
+      ]
+    },
+    {
+      "pathname": "/works",
+      "records": [
+        {
+          "label": "start",
+          "delay": 80,
+          "screenshot": "M:/projects za inno/websites/innostudio/qa-output/site-loader-after/works-start.png",
+          "state": {
+            "path": "/works",
+            "loaderPresent": true,
+            "body": "site-loader-active no-scroll",
+            "loaderTransform": "none",
+            "loaderOpacity": "1",
+            "maskHeight": "2.79688px",
+            "contentPresent": true,
+            "contentClass": "page-content works-page",
+            "atmosphereCount": 1,
+            "loaderDotLayer": true
+          }
+        },
+        {
+          "label": "mid-fill",
+          "delay": 760,
+          "screenshot": "M:/projects za inno/websites/innostudio/qa-output/site-loader-after/works-mid-fill.png",
+          "state": {
+            "path": "/works",
+            "loaderPresent": true,
+            "body": "site-loader-active no-scroll",
+            "loaderTransform": "none",
+            "loaderOpacity": "1",
+            "maskHeight": "85.0156px",
+            "contentPresent": true,
+            "contentClass": "page-content works-page",
+            "atmosphereCount": 1,
+            "loaderDotLayer": true
+          }
+        },
+        {
+          "label": "hold",
+          "delay": 1420,
+          "screenshot": "M:/projects za inno/websites/innostudio/qa-output/site-loader-after/works-hold.png",
+          "state": {
+            "path": "/works",
+            "loaderPresent": true,
+            "body": "site-loader-active no-scroll",
+            "loaderTransform": "matrix(1, 0, 0, 1, 0, -94.5499)",
+            "loaderOpacity": "1",
+            "maskHeight": "88.25px",
+            "contentPresent": true,
+            "contentClass": "page-content works-page",
+            "atmosphereCount": 1,
+            "loaderDotLayer": true
+          }
+        },
+        {
+          "label": "exit",
+          "delay": 1860,
+          "screenshot": "M:/projects za inno/websites/innostudio/qa-output/site-loader-after/works-exit.png",
+          "state": {
+            "path": "/works",
+            "loaderPresent": true,
+            "body": "site-loader-active no-scroll",
+            "loaderTransform": "matrix(1, 0, 0, 1, 0, -900)",
+            "loaderOpacity": "1",
+            "maskHeight": "88.25px",
+            "contentPresent": true,
+            "contentClass": "page-content works-page",
+            "atmosphereCount": 1,
+            "loaderDotLayer": true
+          }
+        },
+        {
+          "label": "settled",
+          "delay": 2600,
+          "screenshot": "M:/projects za inno/websites/innostudio/qa-output/site-loader-after/works-settled.png",
+          "state": {
+            "path": "/works",
+            "loaderPresent": false,
+            "body": "",
+            "loaderTransform": null,
+            "loaderOpacity": null,
+            "maskHeight": null,
+            "contentPresent": true,
+            "contentClass": "page-content works-page",
+            "atmosphereCount": 1,
+            "loaderDotLayer": false
+          }
+        }
+      ]
+    }
+  ],
+  "navigationNoReplay": {
+    "path": "/about",
+    "loaderPresent": false,
+    "contentClass": "page-content about-page"
+  },
+  "reducedMotion": {
+    "start": {
+      "loaderPresent": true,
+      "reducedClass": "site-loader",
+      "body": "site-loader-active no-scroll"
+    },
+    "settled": {
+      "loaderPresent": false,
+      "body": "",
+      "path": "/works"
+    }
+  }
+}

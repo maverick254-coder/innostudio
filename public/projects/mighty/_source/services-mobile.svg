@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+        
+    <style>
+      .brand{font:900 30px Montserrat,Arial,sans-serif;letter-spacing:6px}
+      .nav{font:800 15px Work Sans,Arial,sans-serif;letter-spacing:2px}
+      .kicker{font:800 17px Work Sans,Arial,sans-serif;letter-spacing:3px}
+      .serif{font:900 90px Georgia,serif;line-height:1}
+      .serif-sm{font:900 48px Georgia,serif}
+      .body{font:500 27px Work Sans,Arial,sans-serif}
+      .body-sm{font:600 20px Work Sans,Arial,sans-serif}
+      .label{font:800 14px Work Sans,Arial,sans-serif;letter-spacing:2px}
+    </style>
+  
+    <pattern id="waves" width="120" height="28" patternUnits="userSpaceOnUse">
+      <path d="M0 14 C30 0 60 28 90 14 C105 7 114 6 120 8" fill="none" stroke="#ffffff" stroke-opacity=".14" stroke-width="2"/>
+    </pattern>
+  
+        <rect width="390" height="844" fill="#050505"/>
+        <rect width="390" height="844" fill="url(#waves)" opacity=".9"/>
+        <rect x="128" y="12" width="134" height="24" rx="12" fill="#ffcb00"/>
+        <text x="34" y="82" class="brand" fill="#f7f2e8" font-size="22">MIGHTY</text>
+        <text x="266" y="80" class="nav" fill="#f7f2e8">SERVICES</text>
+        <text x="34" y="178" class="kicker" fill="#ffcb00">SERVICES</text>
+        <text x="34" y="255" class="serif-sm" fill="#f7f2e8">Launch systems</text>
+        <text x="34" y="312" class="serif-sm" fill="#f7f2e8">with rhythm.</text>
+        <line x1="34" y1="420" x2="356" y2="420" stroke="#ffffff" opacity=".24"/>
+        <text x="34" y="468" class="label" fill="#ffcb00">01</text><text x="92" y="468" class="body-sm" fill="#f7f2e8">Content strategy</text>
+        <line x1="34" y1="535" x2="356" y2="535" stroke="#ffffff" opacity=".24"/>
+        <text x="34" y="583" class="label" fill="#ffcb00">02</text><text x="92" y="583" class="body-sm" fill="#f7f2e8">Design systems</text>
+        <line x1="34" y1="650" x2="356" y2="650" stroke="#ffffff" opacity=".24"/>
+        <text x="34" y="698" class="label" fill="#ffcb00">03</text><text x="92" y="698" class="body-sm" fill="#f7f2e8">Motion prototypes</text>
+      </svg>

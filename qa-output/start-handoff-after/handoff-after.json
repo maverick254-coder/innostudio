@@ -1,0 +1,1455 @@
+{
+  "createdAt": "2026-09-30T14:59:29.619Z",
+  "results": [
+    {
+      "run": 1,
+      "mode": "mouse",
+      "firstStageIndex": 14,
+      "firstStageLabel": "mutation:stage-present",
+      "beforeT": 5396.1,
+      "stageT": 5400.9,
+      "cardDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "coverDelta": {
+        "x": 0,
+        "y": -0.001,
+        "width": 0.001,
+        "height": 0.001
+      },
+      "headingDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "beforeCover": {
+        "x": 430.135,
+        "y": 666.636,
+        "width": 431.73,
+        "height": 269.831,
+        "transform": "matrix(1.04789, 0, 0, 1.04789, 0, 0)",
+        "filter": "brightness(0.789293) saturate(0.923379)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "stageCover": {
+        "x": 430.135,
+        "y": 666.635,
+        "width": 431.731,
+        "height": 269.832,
+        "transform": "matrix(1.04789, 0, 0, 1.04789, 0, 0)",
+        "filter": "brightness(0.789293) saturate(0.923379)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "events": [
+        {
+          "type": "pointerdown",
+          "t": 5365.2,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "mousedown",
+          "t": 5365.4,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "focus",
+          "t": 5365.6,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "click",
+          "t": 5396.1,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 5400.9,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 5459.2,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 5464.3,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 5470.1,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 5475.4,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 5482.5,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 5616.3,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 5802.1,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 6221.5,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 6245.4,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "run": 2,
+      "mode": "mouse",
+      "firstStageIndex": 15,
+      "firstStageLabel": "mutation:stage-present",
+      "beforeT": 3458.7,
+      "stageT": 3462.6,
+      "cardDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "coverDelta": {
+        "x": 0.001,
+        "y": 0,
+        "width": -0.001,
+        "height": -0.001
+      },
+      "headingDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "beforeCover": {
+        "x": 430.34,
+        "y": 666.764,
+        "width": 431.32,
+        "height": 269.575,
+        "transform": "matrix(1.04689, 0, 0, 1.04689, 0, 0)",
+        "filter": "brightness(0.793671) saturate(0.924971)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "stageCover": {
+        "x": 430.341,
+        "y": 666.764,
+        "width": 431.319,
+        "height": 269.574,
+        "transform": "matrix(1.04689, 0, 0, 1.04689, 0, 0)",
+        "filter": "brightness(0.793671) saturate(0.924971)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "events": [
+        {
+          "type": "pointerdown",
+          "t": 3426.5,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "mousedown",
+          "t": 3426.6,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "focus",
+          "t": 3426.7,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "click",
+          "t": 3458.7,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 3462.6,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3500.4,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3505.5,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3509.9,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3513.5,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3520,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3654.6,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3830.6,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 4273.8,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 4303.6,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "run": 3,
+      "mode": "mouse",
+      "firstStageIndex": 13,
+      "firstStageLabel": "mutation:stage-present",
+      "beforeT": 3420.5,
+      "stageT": 3424.9,
+      "cardDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "coverDelta": {
+        "x": 0,
+        "y": -0.001,
+        "width": 0.001,
+        "height": 0.001
+      },
+      "headingDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "beforeCover": {
+        "x": 430.343,
+        "y": 666.776,
+        "width": 431.314,
+        "height": 269.571,
+        "transform": "matrix(1.04688, 0, 0, 1.04688, 0, 0)",
+        "filter": "brightness(0.793739) saturate(0.924996)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "stageCover": {
+        "x": 430.343,
+        "y": 666.775,
+        "width": 431.315,
+        "height": 269.572,
+        "transform": "matrix(1.04688, 0, 0, 1.04688, 0, 0)",
+        "filter": "brightness(0.793739) saturate(0.924996)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "events": [
+        {
+          "type": "pointerdown",
+          "t": 3389.6,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "mousedown",
+          "t": 3389.8,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "focus",
+          "t": 3390,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "click",
+          "t": 3420.5,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 3424.8,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3465,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3471.6,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3477.7,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3492.9,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3499.8,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3621.8,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3801.8,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 4235.8,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 4260.8,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "run": 4,
+      "mode": "mouse",
+      "firstStageIndex": 14,
+      "firstStageLabel": "mutation:stage-present",
+      "beforeT": 3437.7,
+      "stageT": 3441.7,
+      "cardDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "coverDelta": {
+        "x": 0.001,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "headingDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "beforeCover": {
+        "x": 430.342,
+        "y": 666.775,
+        "width": 431.315,
+        "height": 269.572,
+        "transform": "matrix(1.04688, 0, 0, 1.04688, 0, 0)",
+        "filter": "brightness(0.793721) saturate(0.924989)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "stageCover": {
+        "x": 430.343,
+        "y": 666.775,
+        "width": 431.315,
+        "height": 269.572,
+        "transform": "matrix(1.04688, 0, 0, 1.04688, 0, 0)",
+        "filter": "brightness(0.793721) saturate(0.924989)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "events": [
+        {
+          "type": "pointerdown",
+          "t": 3406.6,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "mousedown",
+          "t": 3406.7,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "focus",
+          "t": 3407,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "click",
+          "t": 3437.7,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 3441.6,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3498.3,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3506.2,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3512.3,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3521.6,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3656,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3827.9,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 4280.3,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 4303.1,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "run": 5,
+      "mode": "mouse",
+      "firstStageIndex": 13,
+      "firstStageLabel": "mutation:stage-present",
+      "beforeT": 3450.2,
+      "stageT": 3454.6,
+      "cardDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "coverDelta": {
+        "x": 0.001,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "headingDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "beforeCover": {
+        "x": 430.342,
+        "y": 666.775,
+        "width": 431.315,
+        "height": 269.572,
+        "transform": "matrix(1.04688, 0, 0, 1.04688, 0, 0)",
+        "filter": "brightness(0.793719) saturate(0.924989)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "stageCover": {
+        "x": 430.343,
+        "y": 666.775,
+        "width": 431.315,
+        "height": 269.572,
+        "transform": "matrix(1.04688, 0, 0, 1.04688, 0, 0)",
+        "filter": "brightness(0.793719) saturate(0.924989)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "events": [
+        {
+          "type": "pointerdown",
+          "t": 3419.6,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "mousedown",
+          "t": 3419.8,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "focus",
+          "t": 3420.1,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "click",
+          "t": 3450.1,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 3454.6,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3516.7,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3524.2,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3530.6,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3536,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3542.7,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3670.9,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3854.8,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 4283.2,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 4308.4,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "run": 6,
+      "mode": "mouse",
+      "firstStageIndex": 13,
+      "firstStageLabel": "mutation:stage-present",
+      "beforeT": 3429.7,
+      "stageT": 3433.7,
+      "cardDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "coverDelta": {
+        "x": -0.001,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "headingDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "beforeCover": {
+        "x": 430.85,
+        "y": 667.092,
+        "width": 430.301,
+        "height": 268.938,
+        "transform": "matrix(1.04442, 0, 0, 1.04442, 0, 0)",
+        "filter": "brightness(0.804557) saturate(0.92893)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "stageCover": {
+        "x": 430.849,
+        "y": 667.092,
+        "width": 430.301,
+        "height": 268.938,
+        "transform": "matrix(1.04442, 0, 0, 1.04442, 0, 0)",
+        "filter": "brightness(0.804557) saturate(0.92893)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "events": [
+        {
+          "type": "pointerdown",
+          "t": 3399.4,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "mousedown",
+          "t": 3399.6,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "focus",
+          "t": 3399.6,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "click",
+          "t": 3429.7,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 3433.7,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3483.5,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3495.1,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3502.4,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3508.2,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3518.4,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3646.5,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3824.8,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 4257.1,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 4280.6,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "run": 7,
+      "mode": "mouse",
+      "firstStageIndex": 15,
+      "firstStageLabel": "mutation:stage-present",
+      "beforeT": 3444.8,
+      "stageT": 3449,
+      "cardDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "coverDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0.001,
+        "height": 0
+      },
+      "headingDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "beforeCover": {
+        "x": 430.133,
+        "y": 666.634,
+        "width": 431.734,
+        "height": 269.834,
+        "transform": "matrix(1.0479, 0, 0, 1.0479, 0, 0)",
+        "filter": "brightness(0.789246) saturate(0.923362)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "stageCover": {
+        "x": 430.133,
+        "y": 666.634,
+        "width": 431.735,
+        "height": 269.834,
+        "transform": "matrix(1.0479, 0, 0, 1.0479, 0, 0)",
+        "filter": "brightness(0.789246) saturate(0.923362)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "events": [
+        {
+          "type": "pointerdown",
+          "t": 3414.2,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "mousedown",
+          "t": 3414.4,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "focus",
+          "t": 3414.6,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "click",
+          "t": 3444.7,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 3449,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3500.8,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3511.5,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3517.8,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3522.3,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3527.6,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3660.3,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3847.1,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 4268.2,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 4289.3,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "run": 8,
+      "mode": "mouse",
+      "firstStageIndex": 15,
+      "firstStageLabel": "mutation:stage-present",
+      "beforeT": 3434,
+      "stageT": 3437.3,
+      "cardDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "coverDelta": {
+        "x": 0,
+        "y": -0.001,
+        "width": 0.002,
+        "height": 0.001
+      },
+      "headingDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "beforeCover": {
+        "x": 430.133,
+        "y": 666.635,
+        "width": 431.733,
+        "height": 269.833,
+        "transform": "matrix(1.0479, 0, 0, 1.0479, 0, 0)",
+        "filter": "brightness(0.789255) saturate(0.923365)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "stageCover": {
+        "x": 430.133,
+        "y": 666.634,
+        "width": 431.735,
+        "height": 269.834,
+        "transform": "matrix(1.0479, 0, 0, 1.0479, 0, 0)",
+        "filter": "brightness(0.789255) saturate(0.923365)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "events": [
+        {
+          "type": "pointerdown",
+          "t": 3403.9,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "mousedown",
+          "t": 3404,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "focus",
+          "t": 3404.2,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "click",
+          "t": 3433.9,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 3437.3,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3476,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3478.3,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3489.4,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3498.8,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3621.2,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3806.1,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 4251.6,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 4270,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "run": 9,
+      "mode": "mouse",
+      "firstStageIndex": 14,
+      "firstStageLabel": "mutation:stage-present",
+      "beforeT": 3423.2,
+      "stageT": 3426.5,
+      "cardDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "coverDelta": {
+        "x": 0.001,
+        "y": 0,
+        "width": -0.001,
+        "height": -0.001
+      },
+      "headingDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "beforeCover": {
+        "x": 430.34,
+        "y": 666.764,
+        "width": 431.32,
+        "height": 269.575,
+        "transform": "matrix(1.04689, 0, 0, 1.04689, 0, 0)",
+        "filter": "brightness(0.793669) saturate(0.92497)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "stageCover": {
+        "x": 430.341,
+        "y": 666.764,
+        "width": 431.319,
+        "height": 269.574,
+        "transform": "matrix(1.04689, 0, 0, 1.04689, 0, 0)",
+        "filter": "brightness(0.793669) saturate(0.92497)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "events": [
+        {
+          "type": "pointerdown",
+          "t": 3393.2,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "mousedown",
+          "t": 3393.3,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "focus",
+          "t": 3393.4,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "click",
+          "t": 3423.2,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 3426.5,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3460.7,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3464.9,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3469.7,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3473,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3484.2,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3618.1,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3791.1,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 4223.1,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 4244.6,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "run": 10,
+      "mode": "mouse",
+      "firstStageIndex": 15,
+      "firstStageLabel": "mutation:stage-present",
+      "beforeT": 3444.5,
+      "stageT": 3448,
+      "cardDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "coverDelta": {
+        "x": -0.001,
+        "y": -0.001,
+        "width": 0.002,
+        "height": 0.002
+      },
+      "headingDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "beforeCover": {
+        "x": 430.344,
+        "y": 666.766,
+        "width": 431.313,
+        "height": 269.57,
+        "transform": "matrix(1.04688, 0, 0, 1.04688, 0, 0)",
+        "filter": "brightness(0.793747) saturate(0.924999)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "stageCover": {
+        "x": 430.343,
+        "y": 666.765,
+        "width": 431.315,
+        "height": 269.572,
+        "transform": "matrix(1.04688, 0, 0, 1.04688, 0, 0)",
+        "filter": "brightness(0.793747) saturate(0.924999)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "events": [
+        {
+          "type": "pointerdown",
+          "t": 3414.1,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "mousedown",
+          "t": 3414.3,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "focus",
+          "t": 3414.5,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "click",
+          "t": 3444.5,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 3448,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3491.1,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3495.3,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3499.6,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3502.8,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3525.5,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3648.1,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3820,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 4251.2,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 4272.4,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "run": 1,
+      "mode": "keyboard",
+      "firstStageIndex": 10,
+      "firstStageLabel": "mutation:stage-present",
+      "beforeT": 3403.3,
+      "stageT": 3406.6,
+      "cardDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "coverDelta": {
+        "x": 0.001,
+        "y": 0,
+        "width": -0.001,
+        "height": -0.001
+      },
+      "headingDelta": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "beforeCover": {
+        "x": 431.473,
+        "y": 639.272,
+        "width": 429.054,
+        "height": 268.159,
+        "transform": "matrix(1.04139, 0, 0, 1.04139, 0, 0)",
+        "filter": "brightness(0.817871) saturate(0.933771)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "stageCover": {
+        "x": 431.474,
+        "y": 639.272,
+        "width": 429.053,
+        "height": 268.158,
+        "transform": "matrix(1.04139, 0, 0, 1.04139, 0, 0)",
+        "filter": "brightness(0.817871) saturate(0.933771)",
+        "opacity": "1",
+        "visibility": "visible",
+        "zIndex": "auto"
+      },
+      "events": [
+        {
+          "type": "keydown",
+          "t": 3402.8,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "click",
+          "t": 3403.3,
+          "pathname": "/works",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 3406.6,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3452.1,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3454.9,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3460.1,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3462.8,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3473.1,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3603.6,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 3789,
+          "pathname": "/work/mighty-demo",
+          "body": "project-transition-lock project-route-transition-active"
+        },
+        {
+          "type": "stage-present",
+          "t": 4212.5,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        },
+        {
+          "type": "stage-present",
+          "t": 4234.5,
+          "pathname": "/work/mighty-demo",
+          "body": ""
+        }
+      ]
+    }
+  ]
+}

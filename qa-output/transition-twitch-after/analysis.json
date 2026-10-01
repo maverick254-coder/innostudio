@@ -1,0 +1,1006 @@
+{
+  "entry": {
+    "start": {
+      "works": 0,
+      "nav": 0,
+      "project": 1440,
+      "rail": 357
+    },
+    "end": {
+      "works": -1440,
+      "nav": -360,
+      "project": 0,
+      "rail": 0
+    },
+    "maxDiv": 2.667794819499747e-7,
+    "buckets": [
+      {
+        "bucket": 0,
+        "works": 0,
+        "nav": 0,
+        "project": 0,
+        "rail": 0,
+        "div": 0,
+        "positions": {
+          "works": 0,
+          "nav": 0,
+          "project": 1440,
+          "rail": 357
+        },
+        "titleY": 2749.015625
+      },
+      {
+        "bucket": 0.1,
+        "works": 0.09719465043809679,
+        "nav": 0.09719472461276585,
+        "project": 0.09719467163085938,
+        "rail": 0.09719463957457983,
+        "div": 8.503818602068058e-8,
+        "positions": {
+          "works": -139.96029663085938,
+          "nav": -34.9901008605957,
+          "project": 1300.0396728515625,
+          "rail": 322.301513671875
+        },
+        "titleY": 389.046875
+      },
+      {
+        "bucket": 0.2,
+        "works": 0.1863440195719401,
+        "nav": 0.1863438924153646,
+        "project": 0.18634406195746528,
+        "rail": 0.18634400781797095,
+        "div": 1.6954210069197728e-7,
+        "positions": {
+          "works": -268.33538818359375,
+          "nav": -67.08380126953125,
+          "project": 1171.66455078125,
+          "rail": 290.4751892089844
+        },
+        "titleY": 389.046875
+      },
+      {
+        "bucket": 0.3,
+        "works": 0.30718305375840926,
+        "nav": 0.30718305375840926,
+        "project": 0.30718307495117186,
+        "rail": 0.30718318821669294,
+        "div": 1.3445828367375512e-7,
+        "positions": {
+          "works": -442.3435974121094,
+          "nav": -110.58589935302734,
+          "project": 997.6563720703125,
+          "rail": 247.33560180664062
+        },
+        "titleY": 389.046875
+      },
+      {
+        "bucket": 0.4,
+        "works": 0.3750996483696832,
+        "nav": 0.3750997331407335,
+        "project": 0.3750996483696832,
+        "rail": 0.375099716400232,
+        "div": 8.477105034598864e-8,
+        "positions": {
+          "works": -540.1434936523438,
+          "nav": -135.03590393066406,
+          "project": 899.8565063476562,
+          "rail": 223.0894012451172
+        },
+        "titleY": 389.046875
+      },
+      {
+        "bucket": 0.5,
+        "works": 0.5261380513509114,
+        "nav": 0.5261380513509114,
+        "project": 0.5261380513509114,
+        "rail": 0.5261380919555322,
+        "div": 4.060462077681848e-8,
+        "positions": {
+          "works": -757.6387939453125,
+          "nav": -189.40969848632812,
+          "project": 682.3612060546875,
+          "rail": 169.168701171875
+        },
+        "titleY": 389.046875
+      },
+      {
+        "bucket": 0.6,
+        "works": 0.5893065134684244,
+        "nav": 0.5893066830105251,
+        "project": 0.5893065134684244,
+        "rail": 0.5893064440131521,
+        "div": 2.3899737300325796e-7,
+        "positions": {
+          "works": -848.6013793945312,
+          "nav": -212.15040588378906,
+          "project": 591.3986206054688,
+          "rail": 146.6175994873047
+        },
+        "titleY": 389.046875
+      },
+      {
+        "bucket": 0.7,
+        "works": 0.6928169250488281,
+        "nav": 0.6928169250488281,
+        "project": 0.6928169462415907,
+        "rail": 0.6928168117833071,
+        "div": 1.3445828361824397e-7,
+        "positions": {
+          "works": -997.6563720703125,
+          "nav": -249.41409301757812,
+          "project": 442.3435974121094,
+          "rail": 109.66439819335938
+        },
+        "titleY": 389.046875
+      },
+      {
+        "bucket": 0.8,
+        "works": 0.7924556308322482,
+        "nav": 0.792455546061198,
+        "project": 0.7924556308322482,
+        "rail": 0.7924557426730457,
+        "div": 1.9661184780250807e-7,
+        "positions": {
+          "works": -1141.1361083984375,
+          "nav": -285.28399658203125,
+          "project": 298.8638916015625,
+          "rail": 74.09329986572266
+        },
+        "titleY": 389.046875
+      },
+      {
+        "bucket": 0.9,
+        "works": 0.901234605577257,
+        "nav": 0.9012344360351563,
+        "project": 0.9012345843844943,
+        "rail": 0.9012344531318387,
+        "div": 1.6954210069197728e-7,
+        "positions": {
+          "works": -1297.77783203125,
+          "nav": -324.44439697265625,
+          "project": 142.22219848632812,
+          "rail": 35.259300231933594
+        },
+        "titleY": 389.046875
+      },
+      {
+        "bucket": 1,
+        "works": 1,
+        "nav": 1,
+        "project": 1,
+        "rail": 1,
+        "div": 0,
+        "positions": {
+          "works": -1440,
+          "nav": -360,
+          "project": 0,
+          "rail": 0
+        },
+        "titleY": 389.046875
+      }
+    ],
+    "handoffDelta": {
+      "projectRoot": {
+        "dx": 0,
+        "dy": 0,
+        "dw": 0,
+        "dh": 0,
+        "a": {
+          "left": 0,
+          "top": 0,
+          "width": 1440,
+          "height": 14281.1875
+        },
+        "b": {
+          "left": 0,
+          "top": 0,
+          "width": 1440,
+          "height": 14281.1875
+        }
+      },
+      "projectTitle": {
+        "dx": 0,
+        "dy": 0,
+        "dw": 0,
+        "dh": 0,
+        "a": {
+          "left": 215.984375,
+          "top": 389.046875,
+          "width": 760,
+          "height": 85.703125
+        },
+        "b": {
+          "left": 215.984375,
+          "top": 389.046875,
+          "width": 760,
+          "height": 85.703125
+        }
+      },
+      "closeButton": {
+        "dx": 0,
+        "dy": 0,
+        "dw": 0,
+        "dh": 0,
+        "a": {
+          "left": 66,
+          "top": 64,
+          "width": 44,
+          "height": 44
+        },
+        "b": {
+          "left": 66,
+          "top": 64,
+          "width": 44,
+          "height": 44
+        }
+      },
+      "rail": {
+        "dx": 0,
+        "dy": 0,
+        "dw": 0,
+        "dh": 0,
+        "a": {
+          "left": 0,
+          "top": 0,
+          "width": 3,
+          "height": 900
+        },
+        "b": {
+          "left": 0,
+          "top": 0,
+          "width": 3,
+          "height": 900
+        }
+      }
+    },
+    "postLiveDrift": {
+      "projectRoot": {
+        "dx": 0,
+        "dy": 0,
+        "dw": 0,
+        "dh": 0,
+        "a": {
+          "left": 0,
+          "top": 0,
+          "width": 1440,
+          "height": 14281.1875
+        },
+        "b": {
+          "left": 0,
+          "top": 0,
+          "width": 1440,
+          "height": 14281.1875
+        }
+      },
+      "projectTitle": {
+        "dx": 0,
+        "dy": 0,
+        "dw": 0,
+        "dh": 0,
+        "a": {
+          "left": 215.984375,
+          "top": 389.046875,
+          "width": 760,
+          "height": 85.703125
+        },
+        "b": {
+          "left": 215.984375,
+          "top": 389.046875,
+          "width": 760,
+          "height": 85.703125
+        }
+      },
+      "closeButton": {
+        "dx": 0,
+        "dy": 0,
+        "dw": 0,
+        "dh": 0,
+        "a": {
+          "left": 66,
+          "top": 64,
+          "width": 44,
+          "height": 44
+        },
+        "b": {
+          "left": 66,
+          "top": 64,
+          "width": 44,
+          "height": 44
+        }
+      },
+      "rail": {
+        "dx": 0,
+        "dy": 0,
+        "dw": 0,
+        "dh": 0,
+        "a": {
+          "left": 0,
+          "top": 0,
+          "width": 3,
+          "height": 900
+        },
+        "b": {
+          "left": 0,
+          "top": 0,
+          "width": 3,
+          "height": 900
+        }
+      }
+    },
+    "lastActiveStyles": {
+      "pageContent": {
+        "transform": "none",
+        "transition": "all",
+        "opacity": "1",
+        "visibility": "visible",
+        "marginLeft": "0px",
+        "width": "1440px"
+      },
+      "sidebar": {
+        "transform": "matrix(1, 0, 0, 1, -302, 0)",
+        "transition": "opacity 0.45s, transform 0.65s cubic-bezier(0.22, 1, 0.36, 1)",
+        "opacity": "0.18",
+        "visibility": "visible",
+        "marginLeft": "0px",
+        "width": "360px"
+      },
+      "rail": {
+        "transform": "none",
+        "transition": "opacity 0.35s",
+        "opacity": "1",
+        "visibility": "visible",
+        "marginLeft": "0px",
+        "width": "3px"
+      },
+      "projectRoot": {
+        "transform": "none",
+        "transition": "all",
+        "opacity": "1",
+        "visibility": "visible",
+        "marginLeft": "0px",
+        "width": "1440px"
+      },
+      "worksLayer": {
+        "transform": "matrix(1, 0, 0, 1, -1440, 0)",
+        "transition": "all",
+        "opacity": "1",
+        "visibility": "visible",
+        "marginLeft": "0px",
+        "width": "1440px"
+      },
+      "sidebarLayer": {
+        "transform": "matrix(1, 0, 0, 1, -360, 0)",
+        "transition": "all",
+        "opacity": "1",
+        "visibility": "visible",
+        "marginLeft": "0px",
+        "width": "360px"
+      },
+      "railLayer": {
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "transition": "all",
+        "opacity": "1",
+        "visibility": "visible",
+        "marginLeft": "0px",
+        "width": "3px"
+      },
+      "frozenProject": null
+    },
+    "firstLiveStyles": {
+      "pageContent": {
+        "transform": "none",
+        "transition": "all",
+        "opacity": "1",
+        "visibility": "visible",
+        "marginLeft": "0px",
+        "width": "1440px"
+      },
+      "sidebar": {
+        "transform": "matrix(1, 0, 0, 1, -302, 0)",
+        "transition": "opacity 0.45s, transform 0.65s cubic-bezier(0.22, 1, 0.36, 1)",
+        "opacity": "0.18",
+        "visibility": "visible",
+        "marginLeft": "0px",
+        "width": "360px"
+      },
+      "rail": {
+        "transform": "none",
+        "transition": "opacity 0.35s",
+        "opacity": "1",
+        "visibility": "visible",
+        "marginLeft": "0px",
+        "width": "3px"
+      },
+      "projectRoot": {
+        "transform": "none",
+        "transition": "all",
+        "opacity": "1",
+        "visibility": "visible",
+        "marginLeft": "0px",
+        "width": "1440px"
+      },
+      "worksLayer": null,
+      "sidebarLayer": null,
+      "railLayer": null,
+      "frozenProject": null
+    },
+    "chains": {
+      "worksLayer": [
+        {
+          "tag": "div",
+          "id": "",
+          "className": "works-transition-layer",
+          "transform": "matrix(1, 0, 0, 1, -1440, 0)",
+          "translate": "none"
+        }
+      ],
+      "worksHeading": [
+        {
+          "tag": "div",
+          "id": "",
+          "className": "page-content works-page transition-page-clone",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "translate": "none"
+        },
+        {
+          "tag": "div",
+          "id": "",
+          "className": "works-transition-layer",
+          "transform": "matrix(1, 0, 0, 1, -1440, 0)",
+          "translate": "none"
+        }
+      ],
+      "nav": [
+        {
+          "tag": "div",
+          "id": "",
+          "className": "sidebar-transition-layer",
+          "transform": "matrix(1, 0, 0, 1, -360, 0)",
+          "translate": "none"
+        }
+      ],
+      "rail": [
+        {
+          "tag": "div",
+          "id": "",
+          "className": "project-rail-transition-layer",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "translate": "none"
+        }
+      ],
+      "projectRoot": [],
+      "projectTitle": [
+        {
+          "tag": "div",
+          "id": "",
+          "className": "project-hero-copy",
+          "transform": "matrix(1, 0, 0, 1, 0, 9)",
+          "translate": "none"
+        }
+      ]
+    }
+  },
+  "exit": {
+    "start": {
+      "works": -1439.992919921875,
+      "nav": -359.9981994628906,
+      "frozen": 0.0071000000461936,
+      "rail": 0.0017999999690800905
+    },
+    "end": {
+      "works": -0.0017999999690800905,
+      "nav": -0.0005000000237487257,
+      "frozen": 1439.9981689453125,
+      "rail": 356.99951171875
+    },
+    "maxDiv": 2.7777697020336944e-7,
+    "buckets": [
+      {
+        "bucket": 0,
+        "works": 0,
+        "nav": 0,
+        "frozenProject": 0,
+        "rail": 0,
+        "div": 0,
+        "positions": {
+          "works": -1439.992919921875,
+          "nav": -359.9981994628906,
+          "frozen": 0.0071000000461936,
+          "rail": 0.0017999999690800905
+        }
+      },
+      {
+        "bucket": 0.1,
+        "works": 0.11029620900165758,
+        "nav": 0.11029623367066828,
+        "frozenProject": 0.11029624145725134,
+        "rail": 0.11029622591390584,
+        "div": 3.2455593754199263e-8,
+        "positions": {
+          "works": -1281.1673583984375,
+          "nav": -320.29180908203125,
+          "frozen": 158.83270263671875,
+          "rail": 39.37730026245117
+        }
+      },
+      {
+        "bucket": 0.2,
+        "works": 0.18380926948679163,
+        "nav": 0.1838092258262484,
+        "frozenProject": 0.18380926215900847,
+        "rail": 0.18380930070323237,
+        "div": 7.487698397423692e-8,
+        "positions": {
+          "works": -1175.3092041015625,
+          "nav": -293.8273010253906,
+          "frozen": 264.6907958984375,
+          "rail": 65.62129974365234
+        }
+      },
+      {
+        "bucket": 0.3,
+        "works": 0.3108978370199936,
+        "nav": 0.3108978217842644,
+        "frozenProject": 0.31089783419123007,
+        "rail": 0.3108977911995201,
+        "div": 4.582047347101437e-8,
+        "positions": {
+          "works": -992.3027954101562,
+          "nav": -248.07569885253906,
+          "frozen": 447.69720458984375,
+          "rail": 110.9916000366211
+        }
+      },
+      {
+        "bucket": 0.4,
+        "works": 0.38816178530051937,
+        "nav": 0.38816166018836923,
+        "frozenProject": 0.3881617852069509,
+        "rail": 0.38816189147016006,
+        "div": 2.312817908300957e-7,
+        "positions": {
+          "works": -881.0433959960938,
+          "nav": -220.26089477539062,
+          "frozen": 558.9566040039062,
+          "rail": 138.57470703125
+        }
+      },
+      {
+        "bucket": 0.5,
+        "works": 0.5209927368103963,
+        "nav": 0.5209927685647983,
+        "frozenProject": 0.5209927414191317,
+        "rail": 0.5209926814985624,
+        "div": 8.706623588761175e-8,
+        "positions": {
+          "works": -689.7680053710938,
+          "nav": -172.44200134277344,
+          "frozen": 750.2319946289062,
+          "rail": 185.9949951171875
+        }
+      },
+      {
+        "bucket": 0.6,
+        "works": 0.5846842476065958,
+        "nav": 0.5846842936063338,
+        "frozenProject": 0.5846842544700529,
+        "rail": 0.584684130125905,
+        "div": 1.6348042874980706e-7,
+        "positions": {
+          "works": -598.0527954101562,
+          "nav": -149.51319885253906,
+          "frozen": 841.9472045898438,
+          "rail": 208.73269653320312
+        }
+      },
+      {
+        "bucket": 0.7,
+        "works": 0.7348781551066195,
+        "nav": 0.7348782982776395,
+        "frozenProject": 0.7348781672870406,
+        "rail": 0.7348780801829643,
+        "div": 2.180946752083912e-7,
+        "positions": {
+          "works": -381.77490234375,
+          "nav": -95.4437026977539,
+          "frozen": 1058.22509765625,
+          "rail": 262.3515930175781
+        }
+      },
+      {
+        "bucket": 0.8,
+        "works": 0.8110991163373881,
+        "nav": 0.8110990646271192,
+        "frozenProject": 0.8110990888302938,
+        "rail": 0.8110989983181757,
+        "div": 1.180192124028423e-7,
+        "positions": {
+          "works": -272.01739501953125,
+          "nav": -68.00440216064453,
+          "frozen": 1167.9825439453125,
+          "rail": 289.5622863769531
+        }
+      },
+      {
+        "bucket": 0.9,
+        "works": 0.896408384939031,
+        "nav": 0.8964085006594434,
+        "frozenProject": 0.8964083710483884,
+        "rail": 0.8964085710854535,
+        "div": 2.0003706502347285e-7,
+        "positions": {
+          "works": -149.1728057861328,
+          "nav": -37.2932014465332,
+          "frozen": 1290.8271484375,
+          "rail": 320.0176086425781
+        }
+      },
+      {
+        "bucket": 1,
+        "works": 1,
+        "nav": 1,
+        "frozenProject": 1,
+        "rail": 1,
+        "div": 0,
+        "positions": {
+          "works": -0.0017999999690800905,
+          "nav": -0.0005000000237487257,
+          "frozen": 1439.9981689453125,
+          "rail": 356.99951171875
+        }
+      }
+    ],
+    "handoffDelta": {
+      "worksHeading": {
+        "dx": 440,
+        "dy": 120,
+        "dw": -1155.22,
+        "dh": -797,
+        "a": {
+          "left": -0.0017999999690800905,
+          "top": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "b": {
+          "left": 440,
+          "top": 120,
+          "width": 284.78125,
+          "height": 103
+        }
+      },
+      "mightyCard": {
+        "dx": 0,
+        "dy": -0.08,
+        "dw": 0,
+        "dh": 0,
+        "a": {
+          "left": 439.9981994628906,
+          "top": 1273.2674560546875,
+          "width": 412.0000305175781,
+          "height": 297.09375
+        },
+        "b": {
+          "left": 440,
+          "top": 1273.1875,
+          "width": 412,
+          "height": 297.09375
+        }
+      },
+      "sidebarLogo": {
+        "dx": 50,
+        "dy": 48,
+        "dw": -120,
+        "dh": -847.11,
+        "a": {
+          "left": -0.0005000000237487257,
+          "top": 0,
+          "width": 360,
+          "height": 900
+        },
+        "b": {
+          "left": 50,
+          "top": 48,
+          "width": 240,
+          "height": 52.890625
+        }
+      },
+      "navWork": {
+        "dx": 3.45,
+        "dy": 0,
+        "dw": 7.3,
+        "dh": 4,
+        "a": {
+          "left": 49.9995002746582,
+          "top": 371.890625,
+          "width": 48.078121185302734,
+          "height": 29
+        },
+        "b": {
+          "left": 53.45254898071289,
+          "top": 371.890625,
+          "width": 55.374996185302734,
+          "height": 33
+        }
+      },
+      "rail": {
+        "dx": -357,
+        "dy": 0,
+        "dw": 0,
+        "dh": 0,
+        "a": {
+          "left": 356.99951171875,
+          "top": 0,
+          "width": 3,
+          "height": 900
+        },
+        "b": {
+          "left": 0,
+          "top": 0,
+          "width": 3,
+          "height": 900
+        }
+      }
+    },
+    "postLiveDrift": {
+      "worksHeading": {
+        "dx": 0,
+        "dy": 0,
+        "dw": 0,
+        "dh": 0,
+        "a": {
+          "left": 440,
+          "top": 120,
+          "width": 284.78125,
+          "height": 103
+        },
+        "b": {
+          "left": 440,
+          "top": 120,
+          "width": 284.78125,
+          "height": 103
+        }
+      },
+      "mightyCard": {
+        "dx": 0,
+        "dy": 0,
+        "dw": 0,
+        "dh": 0,
+        "a": {
+          "left": 440,
+          "top": 1273.1875,
+          "width": 412,
+          "height": 297.09375
+        },
+        "b": {
+          "left": 440,
+          "top": 1273.1875,
+          "width": 412,
+          "height": 297.09375
+        }
+      },
+      "sidebarLogo": {
+        "dx": 0,
+        "dy": 0,
+        "dw": 0,
+        "dh": 0,
+        "a": {
+          "left": 50,
+          "top": 48,
+          "width": 240,
+          "height": 52.890625
+        },
+        "b": {
+          "left": 50,
+          "top": 48,
+          "width": 240,
+          "height": 52.890625
+        }
+      },
+      "navWork": {
+        "dx": 2.55,
+        "dy": 0,
+        "dw": 4.38,
+        "dh": 1,
+        "a": {
+          "left": 53.45254898071289,
+          "top": 371.890625,
+          "width": 55.374996185302734,
+          "height": 33
+        },
+        "b": {
+          "left": 56,
+          "top": 371.890625,
+          "width": 59.75,
+          "height": 34
+        }
+      },
+      "rail": {
+        "dx": 0,
+        "dy": 0,
+        "dw": 0,
+        "dh": 0,
+        "a": {
+          "left": 0,
+          "top": 0,
+          "width": 3,
+          "height": 900
+        },
+        "b": {
+          "left": 0,
+          "top": 0,
+          "width": 3,
+          "height": 900
+        }
+      }
+    },
+    "lastActiveStyles": {
+      "pageContent": {
+        "transform": "matrix(1, 0, 0, 1, 1440, 0)",
+        "transition": "all",
+        "opacity": "1",
+        "visibility": "visible",
+        "marginLeft": "0px",
+        "width": "1440px"
+      },
+      "sidebar": {
+        "transform": "matrix(1, 0, 0, 1, -302, 0)",
+        "transition": "opacity 0.45s, transform 0.65s cubic-bezier(0.22, 1, 0.36, 1)",
+        "opacity": "0.18",
+        "visibility": "hidden",
+        "marginLeft": "0px",
+        "width": "360px"
+      },
+      "rail": {
+        "transform": "none",
+        "transition": "opacity 0.35s",
+        "opacity": "1",
+        "visibility": "hidden",
+        "marginLeft": "0px",
+        "width": "3px"
+      },
+      "projectRoot": {
+        "transform": "matrix(1, 0, 0, 1, 1440, 0)",
+        "transition": "all",
+        "opacity": "1",
+        "visibility": "visible",
+        "marginLeft": "0px",
+        "width": "1440px"
+      },
+      "worksLayer": {
+        "transform": "matrix(1, 0, 0, 1, -0.0018, 0)",
+        "transition": "all",
+        "opacity": "1",
+        "visibility": "visible",
+        "marginLeft": "0px",
+        "width": "1440px"
+      },
+      "sidebarLayer": {
+        "transform": "matrix(1, 0, 0, 1, -0.0005, 0)",
+        "transition": "all",
+        "opacity": "1",
+        "visibility": "visible",
+        "marginLeft": "0px",
+        "width": "360px"
+      },
+      "railLayer": {
+        "transform": "matrix(1, 0, 0, 1, 357, 0)",
+        "transition": "all",
+        "opacity": "1",
+        "visibility": "visible",
+        "marginLeft": "0px",
+        "width": "3px"
+      },
+      "frozenProject": {
+        "transform": "matrix(1, 0, 0, 1, 1440, 0)",
+        "transition": "all",
+        "opacity": "1",
+        "visibility": "visible",
+        "marginLeft": "0px",
+        "width": "1440px"
+      }
+    },
+    "firstLiveStyles": {
+      "pageContent": {
+        "transform": "none",
+        "transition": "all",
+        "opacity": "1",
+        "visibility": "visible",
+        "marginLeft": "360px",
+        "width": "1080px"
+      },
+      "sidebar": {
+        "transform": "none",
+        "transition": "all",
+        "opacity": "1",
+        "visibility": "visible",
+        "marginLeft": "0px",
+        "width": "360px"
+      },
+      "rail": {
+        "transform": "none",
+        "transition": "opacity 0.35s",
+        "opacity": "0.618407",
+        "visibility": "visible",
+        "marginLeft": "0px",
+        "width": "3px"
+      },
+      "projectRoot": null,
+      "worksLayer": null,
+      "sidebarLayer": null,
+      "railLayer": null,
+      "frozenProject": null
+    },
+    "chains": {
+      "worksLayer": [
+        {
+          "tag": "div",
+          "id": "",
+          "className": "works-transition-layer works-transition-layer--preserved",
+          "transform": "matrix(1, 0, 0, 1, -0.0018, 0)",
+          "translate": "none"
+        }
+      ],
+      "worksHeading": [
+        {
+          "tag": "div",
+          "id": "",
+          "className": "page-content works-page transition-page-clone",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "translate": "none"
+        },
+        {
+          "tag": "div",
+          "id": "",
+          "className": "works-transition-layer works-transition-layer--preserved",
+          "transform": "matrix(1, 0, 0, 1, -0.0018, 0)",
+          "translate": "none"
+        }
+      ],
+      "nav": [
+        {
+          "tag": "div",
+          "id": "",
+          "className": "sidebar-transition-layer",
+          "transform": "matrix(1, 0, 0, 1, -0.0005, 0)",
+          "translate": "none"
+        }
+      ],
+      "rail": [
+        {
+          "tag": "div",
+          "id": "",
+          "className": "project-rail-transition-layer",
+          "transform": "matrix(1, 0, 0, 1, 357, 0)",
+          "translate": "none"
+        }
+      ],
+      "projectRoot": [
+        {
+          "tag": "main",
+          "id": "page-content",
+          "className": "page-content project-page project-experience",
+          "transform": "matrix(1, 0, 0, 1, 1440, 0)",
+          "translate": "none"
+        }
+      ],
+      "projectTitle": [
+        {
+          "tag": "div",
+          "id": "",
+          "className": "project-hero-copy",
+          "transform": "matrix(1, 0, 0, 1, 0, 9)",
+          "translate": "none"
+        },
+        {
+          "tag": "main",
+          "id": "page-content",
+          "className": "page-content project-page project-experience",
+          "transform": "matrix(1, 0, 0, 1, 1440, 0)",
+          "translate": "none"
+        }
+      ]
+    }
+  }
+}

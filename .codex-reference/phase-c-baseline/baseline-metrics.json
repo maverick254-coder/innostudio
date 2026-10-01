@@ -1,0 +1,157 @@
+{
+  "desc": {
+    "fontSize": "23.04px",
+    "height": 357,
+    "left": 636,
+    "lineHeight": "35.712px",
+    "top": 990,
+    "width": 605
+  },
+  "hero": {
+    "height": 900,
+    "left": 0,
+    "top": 0,
+    "width": 1068
+  },
+  "info": {
+    "height": 738,
+    "left": 200,
+    "top": 900,
+    "width": 1040
+  },
+  "media": [
+    {
+      "className": "project-media-item project-media-item--landscape project-media-item--bright",
+      "height": 522,
+      "index": 1,
+      "marginRight": "0px",
+      "offsetY": "-2vh",
+      "width": 835
+    },
+    {
+      "className": "project-media-item project-media-item--portrait project-media-item--bright",
+      "height": 602,
+      "index": 2,
+      "marginRight": "0px",
+      "offsetY": "8vh",
+      "width": 339
+    },
+    {
+      "className": "project-media-item project-media-item--portrait project-media-item--dark",
+      "height": 600,
+      "index": 3,
+      "marginRight": "0px",
+      "offsetY": "-6vh",
+      "width": 480
+    },
+    {
+      "className": "project-media-item project-media-item--landscape project-media-item--bright",
+      "height": 502,
+      "index": 4,
+      "marginRight": "0px",
+      "offsetY": "2vh",
+      "width": 893
+    },
+    {
+      "className": "project-media-item project-media-item--paired-mobile project-media-item--bright",
+      "height": 660,
+      "index": 5,
+      "marginRight": "0px",
+      "offsetY": "9vh",
+      "width": 536
+    },
+    {
+      "className": "project-media-item project-media-item--landscape project-media-item--light",
+      "height": 504,
+      "index": 6,
+      "marginRight": "0px",
+      "offsetY": "-5vh",
+      "width": 806
+    },
+    {
+      "className": "project-media-item project-media-item--portrait project-media-item--bright",
+      "height": 564,
+      "index": 7,
+      "marginRight": "0px",
+      "offsetY": "5vh",
+      "width": 423
+    },
+    {
+      "className": "project-media-item project-media-item--landscape project-media-item--dark",
+      "height": 470,
+      "index": 8,
+      "marginRight": "0px",
+      "offsetY": "-3vh",
+      "width": 835
+    },
+    {
+      "className": "project-media-item project-media-item--landscape project-media-item--bright",
+      "height": 413,
+      "index": 9,
+      "marginRight": "0px",
+      "offsetY": "7vh",
+      "width": 734
+    },
+    {
+      "className": "project-media-item project-media-item--editorial project-media-item--light",
+      "height": 474,
+      "index": 10,
+      "marginRight": "0px",
+      "offsetY": "-6vh",
+      "width": 593
+    },
+    {
+      "className": "project-media-item project-media-item--wide project-media-item--dark",
+      "height": 395,
+      "index": 11,
+      "marginRight": "0px",
+      "offsetY": "4vh",
+      "width": 922
+    },
+    {
+      "className": "project-media-item project-media-item--landscape project-media-item--bright",
+      "height": 522,
+      "index": 12,
+      "marginRight": "0px",
+      "offsetY": "-1vh",
+      "width": 835
+    }
+  ],
+  "meta": {
+    "height": 366,
+    "left": 200,
+    "top": 990,
+    "width": 326
+  },
+  "scroller": {
+    "clientHeight": 900,
+    "scrollHeight": 11365
+  },
+  "showcase": {
+    "height": 9727,
+    "left": 0,
+    "top": 1638,
+    "width": 10008
+  },
+  "tagline": {
+    "fontSize": "20px",
+    "height": 30,
+    "left": 173,
+    "lineHeight": "30px",
+    "top": 494,
+    "width": 780
+  },
+  "title": {
+    "fontSize": "100.8px",
+    "height": 95,
+    "left": 173,
+    "lineHeight": "94.752px",
+    "top": 377,
+    "width": 780
+  },
+  "trackWidth": 10008,
+  "viewport": {
+    "height": 900,
+    "width": 1440
+  }
+}

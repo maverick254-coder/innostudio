@@ -1,0 +1,16 @@
+{
+  "live": null,
+  "clone": {
+    "x": 434.472900390625,
+    "y": 672.8312377929688,
+    "width": 412,
+    "height": 257.5,
+    "transform": "matrix(1, 0, 0, 1, 0, 0)",
+    "filter": "none",
+    "opacity": "1",
+    "visibility": "visible",
+    "zIndex": "auto"
+  },
+  "pathname": "/work/mighty-demo",
+  "body": "project-transition-lock project-route-transition-active"
+}

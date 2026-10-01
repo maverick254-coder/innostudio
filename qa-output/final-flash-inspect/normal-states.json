@@ -1,0 +1,309 @@
+{
+  "hideCursor": false,
+  "point": {
+    "x": 646,
+    "y": 773.2675170898438
+  },
+  "states": [
+    {
+      "label": "01-hover-live",
+      "state": {
+        "t": 4195.5,
+        "path": "/works",
+        "body": "",
+        "stage": false,
+        "worksLayer": null,
+        "projectLayer": null,
+        "rail": null,
+        "liveSidebar": null,
+        "cloneSidebar": null,
+        "liveCard": {
+          "x": 440,
+          "y": 633.217529296875,
+          "width": 412,
+          "height": 297.09375,
+          "transform": "none",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)"
+        },
+        "cloneCard": null,
+        "liveCover": {
+          "x": 432.58868408203125,
+          "y": 668.17919921875,
+          "width": 426.8226318359375,
+          "height": 266.76416015625,
+          "transform": "matrix(1.03598, 0, 0, 1.03598, 0, 0)",
+          "filter": "brightness(0.8417) saturate(0.942436)",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgb(255, 201, 0)",
+          "color": "rgb(17, 17, 17)"
+        },
+        "cloneCover": null,
+        "cursor": {
+          "x": 618.8612670898438,
+          "y": 741.3819580078125,
+          "width": 9.76611328125,
+          "height": 9.76611328125,
+          "transform": "matrix(0.325537, 0, 0, 0.325537, 608.744, 731.265)",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgb(255, 115, 0)",
+          "color": "rgb(0, 0, 0)"
+        },
+        "cursorClass": ""
+      }
+    },
+    {
+      "label": "02-pointer-down",
+      "state": {
+        "t": 4554,
+        "path": "/works",
+        "body": "",
+        "stage": false,
+        "worksLayer": null,
+        "projectLayer": null,
+        "rail": null,
+        "liveSidebar": null,
+        "cloneSidebar": null,
+        "liveCard": {
+          "x": 440,
+          "y": 633.1875,
+          "width": 412,
+          "height": 297.09375,
+          "transform": "none",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)"
+        },
+        "cloneCard": null,
+        "liveCover": {
+          "x": 429.70001220703125,
+          "y": 666.34375,
+          "width": 432.5999755859375,
+          "height": 270.375,
+          "transform": "matrix(1.05, 0, 0, 1.05, 0, 0)",
+          "filter": "brightness(0.78) saturate(0.92)",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgb(255, 201, 0)",
+          "color": "rgb(17, 17, 17)"
+        },
+        "cloneCover": null,
+        "cursor": {
+          "x": 642.25,
+          "y": 769.25,
+          "width": 7.5,
+          "height": 7.5,
+          "transform": "matrix(0.25, 0, 0, 0.25, 631, 758)",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgb(255, 115, 0)",
+          "color": "rgb(0, 0, 0)"
+        },
+        "cursorClass": ""
+      }
+    },
+    {
+      "label": "03-first-stage",
+      "state": {
+        "t": 4903.60000000149,
+        "path": "/work/mighty-demo",
+        "body": "project-transition-lock project-route-transition-active",
+        "stage": true,
+        "worksLayer": {
+          "x": -0.002400000113993883,
+          "y": 0,
+          "width": 1440,
+          "height": 900,
+          "transform": "matrix(1, 0, 0, 1, -0.0024, 0)",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)"
+        },
+        "projectLayer": {
+          "x": 1439.99755859375,
+          "y": 0,
+          "width": 1440,
+          "height": 6802,
+          "transform": "matrix(1, 0, 0, 1, 1440, 0)",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "rail": {
+          "x": 356.9993896484375,
+          "y": 0,
+          "width": 3,
+          "height": 900,
+          "transform": "matrix(1, 0, 0, 1, 356.999, 0)",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)"
+        },
+        "liveSidebar": null,
+        "cloneSidebar": {
+          "x": -0.0006000000284984708,
+          "y": 0,
+          "width": 360,
+          "height": 900,
+          "transform": "none",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)"
+        },
+        "liveCard": null,
+        "cloneCard": {
+          "x": 439.9975891113281,
+          "y": 633.1875,
+          "width": 412.0000305175781,
+          "height": 297.09375,
+          "transform": "none",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)"
+        },
+        "liveCover": null,
+        "cloneCover": {
+          "x": 429.6976013183594,
+          "y": 666.34375,
+          "width": 432.6000061035156,
+          "height": 270.375,
+          "transform": "matrix(1.05, 0, 0, 1.05, 0, 0)",
+          "filter": "brightness(0.78) saturate(0.92)",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgb(255, 201, 0)",
+          "color": "rgb(17, 17, 17)"
+        },
+        "cursor": {
+          "x": 642.25,
+          "y": 769.25,
+          "width": 7.5,
+          "height": 7.5,
+          "transform": "matrix(0.25, 0, 0, 0.25, 631, 758)",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgb(255, 115, 0)",
+          "color": "rgb(0, 0, 0)"
+        },
+        "cursorClass": ""
+      }
+    },
+    {
+      "label": "04-first-moving",
+      "state": {
+        "t": 5271.89999999851,
+        "path": "/work/mighty-demo",
+        "body": "project-transition-lock project-route-transition-active",
+        "stage": true,
+        "worksLayer": {
+          "x": -598.0527954101562,
+          "y": 0,
+          "width": 1440,
+          "height": 900,
+          "transform": "matrix(1, 0, 0, 1, -598.053, 0)",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)"
+        },
+        "projectLayer": {
+          "x": 841.9472045898438,
+          "y": 0,
+          "width": 1440,
+          "height": 6802,
+          "transform": "matrix(1, 0, 0, 1, 841.947, 0)",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "rail": {
+          "x": 208.73269653320312,
+          "y": 0,
+          "width": 3,
+          "height": 900,
+          "transform": "matrix(1, 0, 0, 1, 208.733, 0)",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)"
+        },
+        "liveSidebar": null,
+        "cloneSidebar": {
+          "x": -149.51319885253906,
+          "y": 0,
+          "width": 360,
+          "height": 900,
+          "transform": "none",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)"
+        },
+        "liveCard": null,
+        "cloneCard": {
+          "x": -158.05279541015625,
+          "y": 633.1875,
+          "width": 412,
+          "height": 297.09375,
+          "transform": "none",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)"
+        },
+        "liveCover": null,
+        "cloneCover": {
+          "x": -168.352783203125,
+          "y": 666.34375,
+          "width": 432.5999755859375,
+          "height": 270.375,
+          "transform": "matrix(1.05, 0, 0, 1.05, 0, 0)",
+          "filter": "brightness(0.78) saturate(0.92)",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgb(255, 201, 0)",
+          "color": "rgb(17, 17, 17)"
+        },
+        "cursor": {
+          "x": 642.25,
+          "y": 769.25,
+          "width": 7.5,
+          "height": 7.5,
+          "transform": "matrix(0.25, 0, 0, 0.25, 631, 758)",
+          "filter": "none",
+          "opacity": "1",
+          "visibility": "visible",
+          "background": "rgb(255, 115, 0)",
+          "color": "rgb(0, 0, 0)"
+        },
+        "cursorClass": ""
+      }
+    }
+  ]
+}

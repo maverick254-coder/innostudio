@@ -1,0 +1,311 @@
+[
+  {
+    "delay": 80,
+    "loaderPresent": true,
+    "loader": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 900,
+      "opacity": "1",
+      "transform": "none",
+      "clipPath": "none",
+      "background": "rgb(36, 36, 36)",
+      "display": "grid"
+    },
+    "ghost": {
+      "x": 648,
+      "y": 405.875,
+      "width": 144,
+      "height": 88.25,
+      "opacity": "0.24",
+      "transform": "none",
+      "clipPath": "none",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "block"
+    },
+    "fill": {
+      "x": 648,
+      "y": 405.875,
+      "width": 144,
+      "height": 88.25,
+      "opacity": "1",
+      "transform": "none",
+      "clipPath": "inset(96.3485% 0px 0px)",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "block"
+    },
+    "logoDelta": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    },
+    "body": "site-loader-active no-scroll",
+    "topElementClass": "site-loader-mark",
+    "pageContentPresent": true
+  },
+  {
+    "delay": 300,
+    "loaderPresent": true,
+    "loader": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 900,
+      "opacity": "1",
+      "transform": "none",
+      "clipPath": "none",
+      "background": "rgb(36, 36, 36)",
+      "display": "grid"
+    },
+    "ghost": {
+      "x": 648,
+      "y": 405.875,
+      "width": 144,
+      "height": 88.25,
+      "opacity": "0.24",
+      "transform": "none",
+      "clipPath": "none",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "block"
+    },
+    "fill": {
+      "x": 648,
+      "y": 405.875,
+      "width": 144,
+      "height": 88.25,
+      "opacity": "1",
+      "transform": "none",
+      "clipPath": "inset(69.3086% 0px 0px)",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "block"
+    },
+    "logoDelta": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    },
+    "body": "site-loader-active no-scroll",
+    "topElementClass": "site-loader-mark",
+    "pageContentPresent": true
+  },
+  {
+    "delay": 620,
+    "loaderPresent": true,
+    "loader": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 900,
+      "opacity": "1",
+      "transform": "none",
+      "clipPath": "none",
+      "background": "rgb(36, 36, 36)",
+      "display": "grid"
+    },
+    "ghost": {
+      "x": 648,
+      "y": 405.875,
+      "width": 144,
+      "height": 88.25,
+      "opacity": "0.24",
+      "transform": "none",
+      "clipPath": "none",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "block"
+    },
+    "fill": {
+      "x": 648,
+      "y": 405.875,
+      "width": 144,
+      "height": 88.25,
+      "opacity": "1",
+      "transform": "none",
+      "clipPath": "inset(7.58586% 0px 0px)",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "block"
+    },
+    "logoDelta": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    },
+    "body": "site-loader-active no-scroll",
+    "topElementClass": "site-loader-mark",
+    "pageContentPresent": true
+  },
+  {
+    "delay": 940,
+    "loaderPresent": true,
+    "loader": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 900,
+      "opacity": "1",
+      "transform": "none",
+      "clipPath": "none",
+      "background": "rgb(36, 36, 36)",
+      "display": "grid"
+    },
+    "ghost": {
+      "x": 648,
+      "y": 405.875,
+      "width": 144,
+      "height": 88.25,
+      "opacity": "0.24",
+      "transform": "none",
+      "clipPath": "none",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "block"
+    },
+    "fill": {
+      "x": 648,
+      "y": 405.875,
+      "width": 144,
+      "height": 88.25,
+      "opacity": "1",
+      "transform": "none",
+      "clipPath": "inset(0% 0px 0px)",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "block"
+    },
+    "logoDelta": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    },
+    "body": "site-loader-active no-scroll",
+    "topElementClass": "site-loader-mark",
+    "pageContentPresent": true
+  },
+  {
+    "delay": 1280,
+    "loaderPresent": true,
+    "loader": {
+      "x": 0,
+      "y": -179.102,
+      "width": 1440,
+      "height": 900,
+      "opacity": "1",
+      "transform": "matrix(1, 0, 0, 1, 0, -179.102)",
+      "clipPath": "none",
+      "background": "rgb(36, 36, 36)",
+      "display": "grid"
+    },
+    "ghost": {
+      "x": 648,
+      "y": 226.773,
+      "width": 144,
+      "height": 88.25,
+      "opacity": "0.24",
+      "transform": "none",
+      "clipPath": "none",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "block"
+    },
+    "fill": {
+      "x": 648,
+      "y": 226.773,
+      "width": 144,
+      "height": 88.25,
+      "opacity": "1",
+      "transform": "none",
+      "clipPath": "inset(0% 0px 0px)",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "block"
+    },
+    "logoDelta": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    },
+    "body": "site-loader-active no-scroll",
+    "topElementClass": "site-loader",
+    "pageContentPresent": true
+  },
+  {
+    "delay": 1500,
+    "loaderPresent": true,
+    "loader": {
+      "x": 0,
+      "y": -867.867,
+      "width": 1440,
+      "height": 900,
+      "opacity": "1",
+      "transform": "matrix(1, 0, 0, 1, 0, -867.867)",
+      "clipPath": "none",
+      "background": "rgb(36, 36, 36)",
+      "display": "grid"
+    },
+    "ghost": {
+      "x": 648,
+      "y": -461.992,
+      "width": 144,
+      "height": 88.25,
+      "opacity": "0.24",
+      "transform": "none",
+      "clipPath": "none",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "block"
+    },
+    "fill": {
+      "x": 648,
+      "y": -461.992,
+      "width": 144,
+      "height": 88.25,
+      "opacity": "1",
+      "transform": "none",
+      "clipPath": "inset(0% 0px 0px)",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "block"
+    },
+    "logoDelta": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    },
+    "body": "site-loader-active no-scroll",
+    "topElementClass": "char",
+    "pageContentPresent": true
+  },
+  {
+    "delay": 1700,
+    "loaderPresent": false,
+    "loader": null,
+    "ghost": null,
+    "fill": null,
+    "logoDelta": null,
+    "body": "",
+    "topElementClass": "char",
+    "pageContentPresent": true
+  },
+  {
+    "delay": 2100,
+    "loaderPresent": false,
+    "loader": null,
+    "ghost": null,
+    "fill": null,
+    "logoDelta": null,
+    "body": "",
+    "topElementClass": "char",
+    "pageContentPresent": true
+  },
+  {
+    "delay": 2500,
+    "loaderPresent": false,
+    "loader": null,
+    "ghost": null,
+    "fill": null,
+    "logoDelta": null,
+    "body": "",
+    "topElementClass": "char",
+    "pageContentPresent": true
+  }
+]
