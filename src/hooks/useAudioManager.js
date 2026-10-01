@@ -89,6 +89,8 @@ export default function useAudioManager(isLoadingComplete) {
     }
 
     const handleLinkInteraction = (e) => {
+      if (!(e.target instanceof Element)) return
+
       const target = e.target.closest('a, button')
       if (target) {
         playClickSound()

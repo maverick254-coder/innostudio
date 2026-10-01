@@ -1,16 +1,28 @@
 import { NavLink, useLocation, useOutlet } from 'react-router-dom'
-import { cloneElement, useState, useEffect } from 'react'
+import { cloneElement, useCallback, useState, useEffect } from 'react'
 import { AnimatePresence } from 'framer-motion'
 import { NavigationDirectionProvider } from '../hooks/NavigationDirectionContext.jsx'
 import useCursorEffects from '../hooks/useCursorEffects.js'
 import useAudioManager from '../hooks/useAudioManager.js'
 import useScrollbarIndicator from '../hooks/useScrollbarIndicator.js'
 import useGsapScrollSystem from '../hooks/useGsapScrollSystem.js'
+import { scrollElementTo } from '../utils/projectTransition.js'
+import SiteLoader from './SiteLoader.jsx'
+
+function SiteAtmosphere() {
+  return (
+    <div className="site-atmosphere" aria-hidden="true">
+      <div className="site-atmosphere__dots"></div>
+    </div>
+  )
+}
 
 function Layout() {
   const location = useLocation()
   const outlet = useOutlet()
-  const [isLoadingComplete, setIsLoadingComplete] = useState(() => location.pathname !== '/')
+  const isProjectRoute = location.pathname.startsWith('/work/')
+  const isCustomProjectTransition = Boolean(location.state?.customProjectTransition)
+  const [isLoadingComplete, setIsLoadingComplete] = useState(false)
   const { isMuted, toggleMute } = useAudioManager(isLoadingComplete)
 
   useCursorEffects()
@@ -18,9 +30,12 @@ function Layout() {
   useGsapScrollSystem(location.pathname)
 
   const handleExitComplete = () => {
+    if (document.body.classList.contains('project-route-transition-active')) return
+
     const scrollContainer = document.querySelector('.page-transition')
     if (scrollContainer) {
-      scrollContainer.scrollTo({ top: 0, behavior: 'auto' })
+      const restoreScrollY = location.state?.projectReturn ? location.state.restoreScrollY || 0 : 0
+      scrollElementTo(scrollContainer, restoreScrollY)
     }
   }
 
@@ -43,17 +58,8 @@ function Layout() {
     }
   }, [location.pathname])
 
-  // Expose loading state setter to children via context or window
-  useEffect(() => {
-    if (typeof window === 'undefined' || window.setAudioLoadingComplete) return undefined
-
-    window.setAudioLoadingComplete = () => setIsLoadingComplete(true)
-
-    return () => {
-      if (window.setAudioLoadingComplete) {
-        delete window.setAudioLoadingComplete
-      }
-    }
+  const handleIntroComplete = useCallback(() => {
+    setIsLoadingComplete(true)
   }, [])
 
   return (
@@ -62,9 +68,13 @@ function Layout() {
         <source src="/hub/Black_Gradient.webm" type="video/webm" />
       </video>
 
+      <SiteAtmosphere />
+
+      <SiteLoader onComplete={handleIntroComplete} />
+
       <div id="cursor"></div>
 
-      <aside className="sidebar">
+      <aside className={`sidebar${isProjectRoute ? ' sidebar--project-mode' : ''}`}>
         <div className="scrollbar-thumb"></div>
         <NavLink to="/" className="logo" aria-label="Inno'studio home">
           <svg width="348" height="39" viewBox="0 0 348 39" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -202,6 +212,11 @@ function Layout() {
         </div>
       </aside>
 
+      <div
+        className={`project-scroll-rail${isProjectRoute ? ' project-scroll-rail--project-mode' : ''}`}
+        aria-hidden="true"
+      ></div>
+
       <button 
         className="sound-toggle" 
         onClick={toggleMute}
@@ -215,8 +230,8 @@ function Layout() {
       </button>
 
       <NavigationDirectionProvider>
-        <div className="page-transition">
-          <AnimatePresence mode="wait" initial={false} onExitComplete={handleExitComplete}>
+        <div className={`page-transition${isProjectRoute ? ' page-transition--project-mode' : ''}`}>
+          <AnimatePresence mode={isCustomProjectTransition ? 'sync' : 'wait'} initial={false} onExitComplete={handleExitComplete}>
             {outlet ? cloneElement(outlet, { key: location.pathname }) : null}
           </AnimatePresence>
         </div>

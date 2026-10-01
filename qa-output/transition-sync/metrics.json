@@ -1,0 +1,748 @@
+[
+  {
+    "label": "entry",
+    "index": 0,
+    "elapsedMs": 185,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\entry-00.png",
+    "path": "/work/mighty-demo",
+    "bodyActive": true,
+    "stage": true,
+    "works": {
+      "left": 0,
+      "right": 1440,
+      "width": 1440,
+      "top": 0,
+      "bottom": 900
+    },
+    "nav": {
+      "left": 0,
+      "right": 360,
+      "width": 360,
+      "top": 0,
+      "bottom": 900
+    },
+    "project": {
+      "left": 1440,
+      "right": 2880,
+      "width": 1440,
+      "top": 0,
+      "bottom": 6802
+    },
+    "frozenProject": null,
+    "rail": {
+      "left": 357,
+      "right": 360,
+      "width": 3,
+      "top": 0,
+      "bottom": 900
+    },
+    "liveSidebarVisibility": "hidden",
+    "liveRailVisibility": "hidden"
+  },
+  {
+    "label": "entry",
+    "index": 1,
+    "elapsedMs": 281,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\entry-01.png",
+    "path": "/work/mighty-demo",
+    "bodyActive": true,
+    "stage": true,
+    "works": {
+      "left": -19,
+      "right": 1421,
+      "width": 1440,
+      "top": 0,
+      "bottom": 900
+    },
+    "nav": {
+      "left": -5,
+      "right": 355,
+      "width": 360,
+      "top": 0,
+      "bottom": 900
+    },
+    "project": {
+      "left": 1421,
+      "right": 2861,
+      "width": 1440,
+      "top": 0,
+      "bottom": 6802
+    },
+    "frozenProject": null,
+    "rail": {
+      "left": 352,
+      "right": 355,
+      "width": 3,
+      "top": 0,
+      "bottom": 900
+    },
+    "liveSidebarVisibility": "hidden",
+    "liveRailVisibility": "hidden"
+  },
+  {
+    "label": "entry",
+    "index": 2,
+    "elapsedMs": 363,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\entry-02.png",
+    "path": "/work/mighty-demo",
+    "bodyActive": true,
+    "stage": true,
+    "works": {
+      "left": -109,
+      "right": 1331,
+      "width": 1440,
+      "top": 0,
+      "bottom": 900
+    },
+    "nav": {
+      "left": -27,
+      "right": 333,
+      "width": 360,
+      "top": 0,
+      "bottom": 900
+    },
+    "project": {
+      "left": 1331,
+      "right": 2771,
+      "width": 1440,
+      "top": 0,
+      "bottom": 6802
+    },
+    "frozenProject": null,
+    "rail": {
+      "left": 330,
+      "right": 333,
+      "width": 3,
+      "top": 0,
+      "bottom": 900
+    },
+    "liveSidebarVisibility": "hidden",
+    "liveRailVisibility": "hidden"
+  },
+  {
+    "label": "entry",
+    "index": 3,
+    "elapsedMs": 449,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\entry-03.png",
+    "path": "/work/mighty-demo",
+    "bodyActive": true,
+    "stage": true,
+    "works": {
+      "left": -382,
+      "right": 1058,
+      "width": 1440,
+      "top": 0,
+      "bottom": 900
+    },
+    "nav": {
+      "left": -95,
+      "right": 265,
+      "width": 360,
+      "top": 0,
+      "bottom": 900
+    },
+    "project": {
+      "left": 1058,
+      "right": 2498,
+      "width": 1440,
+      "top": 0,
+      "bottom": 6802
+    },
+    "frozenProject": null,
+    "rail": {
+      "left": 262,
+      "right": 265,
+      "width": 3,
+      "top": 0,
+      "bottom": 900
+    },
+    "liveSidebarVisibility": "hidden",
+    "liveRailVisibility": "hidden"
+  },
+  {
+    "label": "entry",
+    "index": 4,
+    "elapsedMs": 567,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\entry-04.png",
+    "path": "/work/mighty-demo",
+    "bodyActive": true,
+    "stage": true,
+    "works": {
+      "left": -1053,
+      "right": 387,
+      "width": 1440,
+      "top": 0,
+      "bottom": 900
+    },
+    "nav": {
+      "left": -263,
+      "right": 97,
+      "width": 360,
+      "top": 0,
+      "bottom": 900
+    },
+    "project": {
+      "left": 387,
+      "right": 1827,
+      "width": 1440,
+      "top": 0,
+      "bottom": 6802
+    },
+    "frozenProject": null,
+    "rail": {
+      "left": 96,
+      "right": 99,
+      "width": 3,
+      "top": 0,
+      "bottom": 900
+    },
+    "liveSidebarVisibility": "hidden",
+    "liveRailVisibility": "hidden"
+  },
+  {
+    "label": "entry",
+    "index": 5,
+    "elapsedMs": 675,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\entry-05.png",
+    "path": "/work/mighty-demo",
+    "bodyActive": true,
+    "stage": true,
+    "works": {
+      "left": -1377,
+      "right": 63,
+      "width": 1440,
+      "top": 0,
+      "bottom": 900
+    },
+    "nav": {
+      "left": -344,
+      "right": 16,
+      "width": 360,
+      "top": 0,
+      "bottom": 900
+    },
+    "project": {
+      "left": 63,
+      "right": 1503,
+      "width": 1440,
+      "top": 0,
+      "bottom": 6802
+    },
+    "frozenProject": null,
+    "rail": {
+      "left": 16,
+      "right": 19,
+      "width": 3,
+      "top": 0,
+      "bottom": 900
+    },
+    "liveSidebarVisibility": "hidden",
+    "liveRailVisibility": "hidden"
+  },
+  {
+    "label": "entry",
+    "index": 6,
+    "elapsedMs": 808,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\entry-06.png",
+    "path": "/work/mighty-demo",
+    "bodyActive": true,
+    "stage": true,
+    "works": {
+      "left": -1439,
+      "right": 1,
+      "width": 1440,
+      "top": 0,
+      "bottom": 900
+    },
+    "nav": {
+      "left": -360,
+      "right": 0,
+      "width": 360,
+      "top": 0,
+      "bottom": 900
+    },
+    "project": {
+      "left": 1,
+      "right": 1441,
+      "width": 1440,
+      "top": 0,
+      "bottom": 6802
+    },
+    "frozenProject": null,
+    "rail": {
+      "left": 0,
+      "right": 3,
+      "width": 3,
+      "top": 0,
+      "bottom": 900
+    },
+    "liveSidebarVisibility": "hidden",
+    "liveRailVisibility": "hidden"
+  },
+  {
+    "label": "entry",
+    "index": 7,
+    "elapsedMs": 932,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\entry-07.png",
+    "path": "/work/mighty-demo",
+    "bodyActive": false,
+    "stage": false,
+    "works": null,
+    "nav": null,
+    "project": {
+      "left": 0,
+      "right": 1440,
+      "width": 1440,
+      "top": 0,
+      "bottom": 14281
+    },
+    "frozenProject": null,
+    "rail": null,
+    "liveSidebarVisibility": "visible",
+    "liveRailVisibility": "visible"
+  },
+  {
+    "label": "entry",
+    "index": 8,
+    "elapsedMs": 1040,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\entry-08.png",
+    "path": "/work/mighty-demo",
+    "bodyActive": false,
+    "stage": false,
+    "works": null,
+    "nav": null,
+    "project": {
+      "left": 0,
+      "right": 1440,
+      "width": 1440,
+      "top": 0,
+      "bottom": 14281
+    },
+    "frozenProject": null,
+    "rail": null,
+    "liveSidebarVisibility": "visible",
+    "liveRailVisibility": "visible"
+  },
+  {
+    "label": "entry",
+    "index": 9,
+    "elapsedMs": 1156,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\entry-09.png",
+    "path": "/work/mighty-demo",
+    "bodyActive": false,
+    "stage": false,
+    "works": null,
+    "nav": null,
+    "project": {
+      "left": 0,
+      "right": 1440,
+      "width": 1440,
+      "top": 0,
+      "bottom": 14281
+    },
+    "frozenProject": null,
+    "rail": null,
+    "liveSidebarVisibility": "visible",
+    "liveRailVisibility": "visible"
+  },
+  {
+    "label": "entry",
+    "index": 10,
+    "elapsedMs": 1271,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\entry-10.png",
+    "path": "/work/mighty-demo",
+    "bodyActive": false,
+    "stage": false,
+    "works": null,
+    "nav": null,
+    "project": {
+      "left": 0,
+      "right": 1440,
+      "width": 1440,
+      "top": 0,
+      "bottom": 14281
+    },
+    "frozenProject": null,
+    "rail": null,
+    "liveSidebarVisibility": "visible",
+    "liveRailVisibility": "visible"
+  },
+  {
+    "label": "exit-pre",
+    "index": 0,
+    "elapsedMs": 109,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\exit-pre-00.png",
+    "path": "/work/mighty-demo",
+    "bodyActive": false,
+    "stage": false,
+    "works": null,
+    "nav": null,
+    "project": {
+      "left": 0,
+      "right": 1440,
+      "width": 1440,
+      "top": -9367,
+      "bottom": 4914
+    },
+    "frozenProject": null,
+    "rail": null,
+    "liveSidebarVisibility": "visible",
+    "liveRailVisibility": "visible"
+  },
+  {
+    "label": "exit",
+    "index": 0,
+    "elapsedMs": 101,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\exit-00.png",
+    "path": "/work/mighty-demo",
+    "bodyActive": true,
+    "stage": true,
+    "works": {
+      "left": -1436,
+      "right": 4,
+      "width": 1440,
+      "top": 0,
+      "bottom": 900
+    },
+    "nav": {
+      "left": -359,
+      "right": 1,
+      "width": 360,
+      "top": 0,
+      "bottom": 900
+    },
+    "project": {
+      "left": 1440,
+      "right": 2880,
+      "width": 1440,
+      "top": -9367,
+      "bottom": 4914
+    },
+    "frozenProject": {
+      "left": 4,
+      "right": 1444,
+      "width": 1440,
+      "top": 0,
+      "bottom": 900
+    },
+    "rail": {
+      "left": 1,
+      "right": 4,
+      "width": 3,
+      "top": 0,
+      "bottom": 900
+    },
+    "liveSidebarVisibility": "hidden",
+    "liveRailVisibility": "hidden"
+  },
+  {
+    "label": "exit",
+    "index": 1,
+    "elapsedMs": 195,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\exit-01.png",
+    "path": "/work/mighty-demo",
+    "bodyActive": true,
+    "stage": true,
+    "works": {
+      "left": -1404,
+      "right": 36,
+      "width": 1440,
+      "top": 0,
+      "bottom": 900
+    },
+    "nav": {
+      "left": -351,
+      "right": 9,
+      "width": 360,
+      "top": 0,
+      "bottom": 900
+    },
+    "project": {
+      "left": 1440,
+      "right": 2880,
+      "width": 1440,
+      "top": -9367,
+      "bottom": 4914
+    },
+    "frozenProject": {
+      "left": 36,
+      "right": 1476,
+      "width": 1440,
+      "top": 0,
+      "bottom": 900
+    },
+    "rail": {
+      "left": 9,
+      "right": 12,
+      "width": 3,
+      "top": 0,
+      "bottom": 900
+    },
+    "liveSidebarVisibility": "hidden",
+    "liveRailVisibility": "hidden"
+  },
+  {
+    "label": "exit",
+    "index": 2,
+    "elapsedMs": 342,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\exit-02.png",
+    "path": "/work/mighty-demo",
+    "bodyActive": true,
+    "stage": true,
+    "works": {
+      "left": -900,
+      "right": 540,
+      "width": 1440,
+      "top": 0,
+      "bottom": 900
+    },
+    "nav": {
+      "left": -225,
+      "right": 135,
+      "width": 360,
+      "top": 0,
+      "bottom": 900
+    },
+    "project": {
+      "left": 1440,
+      "right": 2880,
+      "width": 1440,
+      "top": -9367,
+      "bottom": 4914
+    },
+    "frozenProject": {
+      "left": 540,
+      "right": 1980,
+      "width": 1440,
+      "top": 0,
+      "bottom": 900
+    },
+    "rail": {
+      "left": 134,
+      "right": 137,
+      "width": 3,
+      "top": 0,
+      "bottom": 900
+    },
+    "liveSidebarVisibility": "hidden",
+    "liveRailVisibility": "hidden"
+  },
+  {
+    "label": "exit",
+    "index": 3,
+    "elapsedMs": 460,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\exit-03.png",
+    "path": "/work/mighty-demo",
+    "bodyActive": true,
+    "stage": true,
+    "works": {
+      "left": -250,
+      "right": 1190,
+      "width": 1440,
+      "top": 0,
+      "bottom": 900
+    },
+    "nav": {
+      "left": -63,
+      "right": 297,
+      "width": 360,
+      "top": 0,
+      "bottom": 900
+    },
+    "project": {
+      "left": 1440,
+      "right": 2880,
+      "width": 1440,
+      "top": -9367,
+      "bottom": 4914
+    },
+    "frozenProject": {
+      "left": 1190,
+      "right": 2630,
+      "width": 1440,
+      "top": 0,
+      "bottom": 900
+    },
+    "rail": {
+      "left": 295,
+      "right": 298,
+      "width": 3,
+      "top": 0,
+      "bottom": 900
+    },
+    "liveSidebarVisibility": "hidden",
+    "liveRailVisibility": "hidden"
+  },
+  {
+    "label": "exit",
+    "index": 4,
+    "elapsedMs": 572,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\exit-04.png",
+    "path": "/work/mighty-demo",
+    "bodyActive": true,
+    "stage": true,
+    "works": {
+      "left": -41,
+      "right": 1399,
+      "width": 1440,
+      "top": 0,
+      "bottom": 900
+    },
+    "nav": {
+      "left": -10,
+      "right": 350,
+      "width": 360,
+      "top": 0,
+      "bottom": 900
+    },
+    "project": {
+      "left": 1440,
+      "right": 2880,
+      "width": 1440,
+      "top": -9367,
+      "bottom": 4914
+    },
+    "frozenProject": {
+      "left": 1399,
+      "right": 2839,
+      "width": 1440,
+      "top": 0,
+      "bottom": 900
+    },
+    "rail": {
+      "left": 347,
+      "right": 350,
+      "width": 3,
+      "top": 0,
+      "bottom": 900
+    },
+    "liveSidebarVisibility": "hidden",
+    "liveRailVisibility": "hidden"
+  },
+  {
+    "label": "exit",
+    "index": 5,
+    "elapsedMs": 710,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\exit-05.png",
+    "path": "/work/mighty-demo",
+    "bodyActive": true,
+    "stage": true,
+    "works": {
+      "left": 0,
+      "right": 1440,
+      "width": 1440,
+      "top": 0,
+      "bottom": 900
+    },
+    "nav": {
+      "left": 0,
+      "right": 360,
+      "width": 360,
+      "top": 0,
+      "bottom": 900
+    },
+    "project": {
+      "left": 1440,
+      "right": 2880,
+      "width": 1440,
+      "top": -9367,
+      "bottom": 4914
+    },
+    "frozenProject": {
+      "left": 1440,
+      "right": 2880,
+      "width": 1440,
+      "top": 0,
+      "bottom": 900
+    },
+    "rail": {
+      "left": 357,
+      "right": 360,
+      "width": 3,
+      "top": 0,
+      "bottom": 900
+    },
+    "liveSidebarVisibility": "hidden",
+    "liveRailVisibility": "hidden"
+  },
+  {
+    "label": "exit",
+    "index": 6,
+    "elapsedMs": 832,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\exit-06.png",
+    "path": "/works",
+    "bodyActive": false,
+    "stage": false,
+    "works": null,
+    "nav": null,
+    "project": null,
+    "frozenProject": null,
+    "rail": null,
+    "liveSidebarVisibility": "visible",
+    "liveRailVisibility": "visible"
+  },
+  {
+    "label": "exit",
+    "index": 7,
+    "elapsedMs": 937,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\exit-07.png",
+    "path": "/works",
+    "bodyActive": false,
+    "stage": false,
+    "works": null,
+    "nav": null,
+    "project": null,
+    "frozenProject": null,
+    "rail": null,
+    "liveSidebarVisibility": "visible",
+    "liveRailVisibility": "visible"
+  },
+  {
+    "label": "exit",
+    "index": 8,
+    "elapsedMs": 1049,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\exit-08.png",
+    "path": "/works",
+    "bodyActive": false,
+    "stage": false,
+    "works": null,
+    "nav": null,
+    "project": null,
+    "frozenProject": null,
+    "rail": null,
+    "liveSidebarVisibility": "visible",
+    "liveRailVisibility": "visible"
+  },
+  {
+    "label": "exit",
+    "index": 9,
+    "elapsedMs": 1178,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\exit-09.png",
+    "path": "/works",
+    "bodyActive": false,
+    "stage": false,
+    "works": null,
+    "nav": null,
+    "project": null,
+    "frozenProject": null,
+    "rail": null,
+    "liveSidebarVisibility": "visible",
+    "liveRailVisibility": "visible"
+  },
+  {
+    "label": "exit",
+    "index": 10,
+    "elapsedMs": 1280,
+    "file": "M:\\projects za inno\\websites\\innostudio\\qa-output\\transition-sync\\exit-10.png",
+    "path": "/works",
+    "bodyActive": false,
+    "stage": false,
+    "works": null,
+    "nav": null,
+    "project": null,
+    "frozenProject": null,
+    "rail": null,
+    "liveSidebarVisibility": "visible",
+    "liveRailVisibility": "visible"
+  }
+]

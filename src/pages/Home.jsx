@@ -1,4 +1,4 @@
-import { useEffect, useLayoutEffect, useRef, useState } from 'react'
+import { useLayoutEffect, useRef, useState } from 'react'
 import { gsap } from 'gsap'
 import { Link } from 'react-router-dom'
 
@@ -19,15 +19,9 @@ const sections = [
 
 function Home() {
   const [currentIndex, setCurrentIndex] = useState(0)
-  const [isLoading, setIsLoading] = useState(() => {
-    const navEntry = performance.getEntriesByType('navigation')[0]
-    const isReload = navEntry?.type === 'reload'
-    return !sessionStorage.getItem('firstVisitDone') || isReload
-  })
   const containerRefs = useRef([])
   const typingTimers = useRef([])
   const isRotatingRef = useRef(false)
-  const hasStartedTypewriterRef = useRef(false)
 
   const startTypewriter = (container) => {
     if (!container) return
@@ -62,36 +56,7 @@ function Home() {
     })
   }
 
-  useEffect(() => {
-    if (!isLoading) return undefined
-
-    const totalAnimationTime = 5000
-    document.body.classList.add('no-scroll', 'is-loading')
-
-    const hideTimer = setTimeout(() => {
-      setIsLoading(false)
-      sessionStorage.setItem('firstVisitDone', 'true')
-      document.body.classList.remove('no-scroll', 'is-loading')
-      if (window.setAudioLoadingComplete) {
-        window.setAudioLoadingComplete()
-      }
-      const container = containerRefs.current[currentIndex]
-      if (container) {
-        setTimeout(() => {
-          startTypewriter(container)
-          hasStartedTypewriterRef.current = true
-        }, 0)
-      }
-    }, totalAnimationTime)
-
-    return () => {
-      clearTimeout(hideTimer)
-      document.body.classList.remove('no-scroll', 'is-loading')
-    }
-  }, [isLoading])
-
   useLayoutEffect(() => {
-    if (isLoading) return
     const currentContainer = containerRefs.current[currentIndex]
     if (!currentContainer) return
 
@@ -114,13 +79,8 @@ function Home() {
       return
     }
 
-    if (hasStartedTypewriterRef.current) {
-      hasStartedTypewriterRef.current = false
-      return
-    }
-
     startTypewriter(currentContainer)
-  }, [currentIndex, isLoading])
+  }, [currentIndex])
 
   const handleRefresh = () => {
     const currentContainer = containerRefs.current[currentIndex]
@@ -140,17 +100,6 @@ function Home() {
 
   return (
     <>
-      {isLoading && (
-        <div className="loading-screen">
-          <div className="loader">
-            <div className="logoline"></div>
-            <div className="logoname-wrapper">
-              <h1 className="logoname">Inno'studio</h1>
-            </div>
-          </div>
-        </div>
-      )}
-
       <div id="page-content" className="home-page">
         <div className="text-refresh-wrapper">
           {sections.map((section, index) => (

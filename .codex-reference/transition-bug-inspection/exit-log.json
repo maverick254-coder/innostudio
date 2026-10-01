@@ -1,0 +1,1160 @@
+[
+  {
+    "atmosphere": {
+      "bg": "rgba(36, 36, 36, 0.96)",
+      "count": 1,
+      "washBg": "radial-gradient(circle at 22% 28%, rgba(255, 255, 255, 0.075), rgba(0, 0, 0, 0) 24%), radial-gradient(circle at 76% 18%, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0) 18%), radial-gradient(circle at 54% 66%, rgba(255, 255,"
+    },
+    "inner": {
+      "h": 900,
+      "w": 1440
+    },
+    "label": "before-close",
+    "lenis": null,
+    "live": {
+      "mediaItems": 21,
+      "pinSpacer": 0,
+      "project": true,
+      "showcase": true,
+      "stickyRect": {
+        "h": 900,
+        "w": 12960,
+        "x": 0,
+        "y": 0
+      },
+      "trackComputedTransform": "matrix(1, 0, 0, 1, -7803.13, 0)",
+      "trackRect": {
+        "h": 900,
+        "w": 12960,
+        "x": -7803,
+        "y": 0
+      },
+      "trackStyleTransform": "translate3d(-7803.13px, 0px, 0px)",
+      "works": false
+    },
+    "path": "/work/mighty-demo",
+    "scroller": {
+      "className": "page-transition page-transition--project-mode lenis",
+      "scrollHeight": 14281,
+      "scrollTop": 9405
+    },
+    "sidebar": {
+      "className": "sidebar sidebar--project-mode",
+      "edgeBg": "linear-gradient(rgb(255, 115, 0) 0%, rgb(255, 115, 0) 43.2862%, rgb(217, 110, 32) 48.2862%, rgb(166, 80, 48) 59.2862%, rgb(129, 40, 143) 70.2862%, rgb(166, 80, 48) 81.2862%, rgb(21",
+      "edgeRight": "0px",
+      "edgeWidth": "3px",
+      "opacity": "0.18",
+      "rect": {
+        "h": 900,
+        "w": 360,
+        "x": -302,
+        "y": 0
+      },
+      "transform": "matrix(1, 0, 0, 1, -302, 0)"
+    },
+    "stage": null,
+    "t": 1790722883240,
+    "transition": {
+      "previewSpans": 0,
+      "projectCloneRect": null,
+      "stageMediaItems": 0,
+      "worksCloneRect": null
+    }
+  },
+  {
+    "atmosphere": {
+      "bg": "rgba(36, 36, 36, 0.96)",
+      "count": 1,
+      "washBg": "radial-gradient(circle at 22% 28%, rgba(255, 255, 255, 0.075), rgba(0, 0, 0, 0) 24%), radial-gradient(circle at 76% 18%, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0) 18%), radial-gradient(circle at 54% 66%, rgba(255, 255,"
+    },
+    "inner": {
+      "h": 900,
+      "w": 1440
+    },
+    "label": "exit-1",
+    "lenis": null,
+    "live": {
+      "mediaItems": 21,
+      "pinSpacer": 0,
+      "project": true,
+      "showcase": true,
+      "stickyRect": {
+        "h": 900,
+        "w": 12960,
+        "x": 0,
+        "y": 0
+      },
+      "trackComputedTransform": "matrix(1, 0, 0, 1, -7803.13, 0)",
+      "trackRect": {
+        "h": 900,
+        "w": 12960,
+        "x": -7803,
+        "y": 0
+      },
+      "trackStyleTransform": "translate3d(-7803.13px, 0px, 0px)",
+      "works": false
+    },
+    "path": "/work/mighty-demo",
+    "scroller": {
+      "className": "page-transition page-transition--project-mode lenis",
+      "scrollHeight": 14281,
+      "scrollTop": 9405
+    },
+    "sidebar": {
+      "className": "sidebar sidebar--project-mode",
+      "edgeBg": "linear-gradient(rgb(255, 115, 0) 0%, rgb(255, 115, 0) 43.2862%, rgb(217, 110, 32) 48.2862%, rgb(166, 80, 48) 59.2862%, rgb(129, 40, 143) 70.2862%, rgb(166, 80, 48) 81.2862%, rgb(21",
+      "edgeRight": "0px",
+      "edgeWidth": "3px",
+      "opacity": "0.18",
+      "rect": {
+        "h": 900,
+        "w": 360,
+        "x": -302,
+        "y": 0
+      },
+      "transform": "matrix(1, 0, 0, 1, -302, 0)"
+    },
+    "stage": null,
+    "t": 1790722883433,
+    "transition": {
+      "previewSpans": 0,
+      "projectCloneRect": null,
+      "stageMediaItems": 0,
+      "worksCloneRect": null
+    }
+  },
+  {
+    "atmosphere": {
+      "bg": "rgba(36, 36, 36, 0.96)",
+      "count": 1,
+      "washBg": "radial-gradient(circle at 22% 28%, rgba(255, 255, 255, 0.075), rgba(0, 0, 0, 0) 24%), radial-gradient(circle at 76% 18%, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0) 18%), radial-gradient(circle at 54% 66%, rgba(255, 255,"
+    },
+    "inner": {
+      "h": 900,
+      "w": 1440
+    },
+    "label": "exit-2",
+    "lenis": null,
+    "live": {
+      "mediaItems": 21,
+      "pinSpacer": 0,
+      "project": true,
+      "showcase": true,
+      "stickyRect": {
+        "h": 900,
+        "w": 12960,
+        "x": 0,
+        "y": 0
+      },
+      "trackComputedTransform": "matrix(1, 0, 0, 1, -7803.13, 0)",
+      "trackRect": {
+        "h": 900,
+        "w": 12960,
+        "x": -7803,
+        "y": 0
+      },
+      "trackStyleTransform": "translate3d(-7803.13px, 0px, 0px)",
+      "works": false
+    },
+    "path": "/work/mighty-demo",
+    "scroller": {
+      "className": "page-transition page-transition--project-mode lenis",
+      "scrollHeight": 14281,
+      "scrollTop": 9405
+    },
+    "sidebar": {
+      "className": "sidebar sidebar--project-mode",
+      "edgeBg": "linear-gradient(rgb(255, 115, 0) 0%, rgb(255, 115, 0) 43.2862%, rgb(217, 110, 32) 48.2862%, rgb(166, 80, 48) 59.2862%, rgb(129, 40, 143) 70.2862%, rgb(166, 80, 48) 81.2862%, rgb(21",
+      "edgeRight": "0px",
+      "edgeWidth": "3px",
+      "opacity": "0.18",
+      "rect": {
+        "h": 900,
+        "w": 360,
+        "x": -302,
+        "y": 0
+      },
+      "transform": "matrix(1, 0, 0, 1, -302, 0)"
+    },
+    "stage": null,
+    "t": 1790722883680,
+    "transition": {
+      "previewSpans": 0,
+      "projectCloneRect": null,
+      "stageMediaItems": 0,
+      "worksCloneRect": null
+    }
+  },
+  {
+    "atmosphere": {
+      "bg": "rgba(36, 36, 36, 0.96)",
+      "count": 1,
+      "washBg": "radial-gradient(circle at 22% 28%, rgba(255, 255, 255, 0.075), rgba(0, 0, 0, 0) 24%), radial-gradient(circle at 76% 18%, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0) 18%), radial-gradient(circle at 54% 66%, rgba(255, 255,"
+    },
+    "inner": {
+      "h": 900,
+      "w": 1440
+    },
+    "label": "exit-3",
+    "lenis": null,
+    "live": {
+      "mediaItems": 42,
+      "pinSpacer": 0,
+      "project": true,
+      "showcase": true,
+      "stickyRect": {
+        "h": 900,
+        "w": 12960,
+        "x": 0,
+        "y": 0
+      },
+      "trackComputedTransform": "matrix(1, 0, 0, 1, -7803.13, 0)",
+      "trackRect": {
+        "h": 900,
+        "w": 12960,
+        "x": -7803,
+        "y": 0
+      },
+      "trackStyleTransform": "translate3d(-7803.13px, 0px, 0px)",
+      "works": true
+    },
+    "path": "/works",
+    "scroller": {
+      "className": "page-transition page-transition--project-mode lenis",
+      "scrollHeight": 14281,
+      "scrollTop": 9405
+    },
+    "sidebar": {
+      "className": "sidebar sidebar--project-mode",
+      "edgeBg": "linear-gradient(rgb(255, 115, 0) 0%, rgb(255, 115, 0) 43.2862%, rgb(217, 110, 32) 48.2862%, rgb(166, 80, 48) 59.2862%, rgb(129, 40, 143) 70.2862%, rgb(166, 80, 48) 81.2862%, rgb(21",
+      "edgeRight": "0px",
+      "edgeWidth": "3px",
+      "opacity": "0.18",
+      "rect": {
+        "h": 900,
+        "w": 360,
+        "x": -302,
+        "y": 0
+      },
+      "transform": "matrix(1, 0, 0, 1, -302, 0)"
+    },
+    "stage": {
+      "childClasses": [
+        "works-transition-layer works-transition-layer--preserved",
+        "project-transition-layer project-transition-layer--frozen"
+      ],
+      "className": "work-project-transition is-leaving",
+      "rect": {
+        "h": 900,
+        "w": 1440,
+        "x": 0,
+        "y": 0
+      }
+    },
+    "t": 1790722883907,
+    "transition": {
+      "previewSpans": 0,
+      "projectCloneRect": {
+        "h": 14281,
+        "w": 1440,
+        "x": 0,
+        "y": -9405
+      },
+      "stageMediaItems": 21,
+      "worksCloneRect": {
+        "h": 2453,
+        "w": 1440,
+        "x": -662,
+        "y": -972
+      }
+    }
+  },
+  {
+    "atmosphere": {
+      "bg": "rgba(36, 36, 36, 0.96)",
+      "count": 1,
+      "washBg": "radial-gradient(circle at 22% 28%, rgba(255, 255, 255, 0.075), rgba(0, 0, 0, 0) 24%), radial-gradient(circle at 76% 18%, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0) 18%), radial-gradient(circle at 54% 66%, rgba(255, 255,"
+    },
+    "inner": {
+      "h": 900,
+      "w": 1440
+    },
+    "label": "exit-4",
+    "lenis": null,
+    "live": {
+      "mediaItems": 21,
+      "pinSpacer": 0,
+      "project": true,
+      "showcase": true,
+      "stickyRect": {
+        "h": 900,
+        "w": 1440,
+        "x": 154,
+        "y": 0
+      },
+      "trackComputedTransform": "matrix(1, 0, 0, 1, -7803.13, 0)",
+      "trackRect": {
+        "h": 900,
+        "w": 12960,
+        "x": -7650,
+        "y": 0
+      },
+      "trackStyleTransform": "translate3d(-7803.13px, 0px, 0px)",
+      "works": true
+    },
+    "path": "/works",
+    "scroller": {
+      "className": "page-transition lenis",
+      "scrollHeight": 2735,
+      "scrollTop": 972
+    },
+    "sidebar": {
+      "className": "sidebar",
+      "edgeBg": "linear-gradient(rgb(255, 115, 0) 0%, rgb(255, 115, 0) -5%, rgb(217, 110, 32) 0%, rgb(166, 80, 48) 3.70454%, rgb(129, 40, 143) 7.40908%, rgb(166, 80, 48) 18.4091%, rgb(217, 110, 32)",
+      "edgeRight": "0px",
+      "edgeWidth": "3px",
+      "opacity": "1",
+      "rect": {
+        "h": 900,
+        "w": 360,
+        "x": 0,
+        "y": 0
+      },
+      "transform": "none"
+    },
+    "stage": {
+      "childClasses": [
+        "works-transition-layer works-transition-layer--preserved",
+        "project-transition-layer project-transition-layer--frozen"
+      ],
+      "className": "work-project-transition is-leaving",
+      "rect": {
+        "h": 900,
+        "w": 1440,
+        "x": 0,
+        "y": 0
+      }
+    },
+    "t": 1790722884271,
+    "transition": {
+      "previewSpans": 0,
+      "projectCloneRect": {
+        "h": 14281,
+        "w": 1440,
+        "x": 154,
+        "y": -9405
+      },
+      "stageMediaItems": 21,
+      "worksCloneRect": {
+        "h": 2453,
+        "w": 1440,
+        "x": -445,
+        "y": -972
+      }
+    }
+  },
+  {
+    "atmosphere": {
+      "bg": "rgba(36, 36, 36, 0.96)",
+      "count": 1,
+      "washBg": "radial-gradient(circle at 22% 28%, rgba(255, 255, 255, 0.075), rgba(0, 0, 0, 0) 24%), radial-gradient(circle at 76% 18%, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0) 18%), radial-gradient(circle at 54% 66%, rgba(255, 255,"
+    },
+    "inner": {
+      "h": 900,
+      "w": 1440
+    },
+    "label": "exit-5",
+    "lenis": null,
+    "live": {
+      "mediaItems": 21,
+      "pinSpacer": 0,
+      "project": true,
+      "showcase": true,
+      "stickyRect": {
+        "h": 900,
+        "w": 1440,
+        "x": 225,
+        "y": 0
+      },
+      "trackComputedTransform": "matrix(1, 0, 0, 1, -7803.13, 0)",
+      "trackRect": {
+        "h": 900,
+        "w": 12960,
+        "x": -7578,
+        "y": 0
+      },
+      "trackStyleTransform": "translate3d(-7803.13px, 0px, 0px)",
+      "works": true
+    },
+    "path": "/works",
+    "scroller": {
+      "className": "page-transition lenis",
+      "scrollHeight": 2480,
+      "scrollTop": 972
+    },
+    "sidebar": {
+      "className": "sidebar",
+      "edgeBg": "linear-gradient(rgb(255, 115, 0) 0%, rgb(255, 115, 0) -5%, rgb(217, 110, 32) 0%, rgb(166, 80, 48) 8.3497%, rgb(129, 40, 143) 16.6994%, rgb(166, 80, 48) 27.6994%, rgb(217, 110, 32) ",
+      "edgeRight": "0px",
+      "edgeWidth": "3px",
+      "opacity": "1",
+      "rect": {
+        "h": 900,
+        "w": 360,
+        "x": 0,
+        "y": 0
+      },
+      "transform": "none"
+    },
+    "stage": {
+      "childClasses": [
+        "works-transition-layer works-transition-layer--preserved",
+        "project-transition-layer project-transition-layer--frozen"
+      ],
+      "className": "work-project-transition is-leaving",
+      "rect": {
+        "h": 900,
+        "w": 1440,
+        "x": 0,
+        "y": 0
+      }
+    },
+    "t": 1790722884476,
+    "transition": {
+      "previewSpans": 0,
+      "projectCloneRect": {
+        "h": 14281,
+        "w": 1440,
+        "x": 225,
+        "y": -9405
+      },
+      "stageMediaItems": 21,
+      "worksCloneRect": {
+        "h": 2453,
+        "w": 1440,
+        "x": -344,
+        "y": -972
+      }
+    }
+  },
+  {
+    "atmosphere": {
+      "bg": "rgba(36, 36, 36, 0.96)",
+      "count": 1,
+      "washBg": "radial-gradient(circle at 22% 28%, rgba(255, 255, 255, 0.075), rgba(0, 0, 0, 0) 24%), radial-gradient(circle at 76% 18%, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0) 18%), radial-gradient(circle at 54% 66%, rgba(255, 255,"
+    },
+    "inner": {
+      "h": 900,
+      "w": 1440
+    },
+    "label": "exit-6",
+    "lenis": null,
+    "live": {
+      "mediaItems": 21,
+      "pinSpacer": 0,
+      "project": true,
+      "showcase": true,
+      "stickyRect": {
+        "h": 900,
+        "w": 1440,
+        "x": 305,
+        "y": 0
+      },
+      "trackComputedTransform": "matrix(1, 0, 0, 1, -7803.13, 0)",
+      "trackRect": {
+        "h": 900,
+        "w": 12960,
+        "x": -7498,
+        "y": 0
+      },
+      "trackStyleTransform": "translate3d(-7803.13px, 0px, 0px)",
+      "works": true
+    },
+    "path": "/works",
+    "scroller": {
+      "className": "page-transition lenis",
+      "scrollHeight": 2360,
+      "scrollTop": 972
+    },
+    "sidebar": {
+      "className": "sidebar",
+      "edgeBg": "linear-gradient(rgb(255, 115, 0) 0%, rgb(255, 115, 0) 3.43132%, rgb(217, 110, 32) 8.43132%, rgb(166, 80, 48) 19.4313%, rgb(129, 40, 143) 30.4313%, rgb(166, 80, 48) 41.4313%, rgb(21",
+      "edgeRight": "0px",
+      "edgeWidth": "3px",
+      "opacity": "1",
+      "rect": {
+        "h": 900,
+        "w": 360,
+        "x": 0,
+        "y": 0
+      },
+      "transform": "none"
+    },
+    "stage": {
+      "childClasses": [
+        "works-transition-layer works-transition-layer--preserved",
+        "project-transition-layer project-transition-layer--frozen"
+      ],
+      "className": "work-project-transition is-leaving",
+      "rect": {
+        "h": 900,
+        "w": 1440,
+        "x": 0,
+        "y": 0
+      }
+    },
+    "t": 1790722884674,
+    "transition": {
+      "previewSpans": 0,
+      "projectCloneRect": {
+        "h": 14281,
+        "w": 1440,
+        "x": 305,
+        "y": -9405
+      },
+      "stageMediaItems": 21,
+      "worksCloneRect": {
+        "h": 2453,
+        "w": 1440,
+        "x": -230,
+        "y": -972
+      }
+    }
+  },
+  {
+    "atmosphere": {
+      "bg": "rgba(36, 36, 36, 0.96)",
+      "count": 1,
+      "washBg": "radial-gradient(circle at 22% 28%, rgba(255, 255, 255, 0.075), rgba(0, 0, 0, 0) 24%), radial-gradient(circle at 76% 18%, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0) 18%), radial-gradient(circle at 54% 66%, rgba(255, 255,"
+    },
+    "inner": {
+      "h": 900,
+      "w": 1440
+    },
+    "label": "exit-7",
+    "lenis": null,
+    "live": {
+      "mediaItems": 21,
+      "pinSpacer": 0,
+      "project": true,
+      "showcase": true,
+      "stickyRect": {
+        "h": 900,
+        "w": 1440,
+        "x": 677,
+        "y": 0
+      },
+      "trackComputedTransform": "matrix(1, 0, 0, 1, -7803.13, 0)",
+      "trackRect": {
+        "h": 900,
+        "w": 12960,
+        "x": -7126,
+        "y": 0
+      },
+      "trackStyleTransform": "translate3d(-7803.13px, 0px, 0px)",
+      "works": true
+    },
+    "path": "/works",
+    "scroller": {
+      "className": "page-transition lenis",
+      "scrollHeight": 2360,
+      "scrollTop": 972
+    },
+    "sidebar": {
+      "className": "sidebar",
+      "edgeBg": "linear-gradient(rgb(255, 115, 0) 0%, rgb(255, 115, 0) 39.5753%, rgb(217, 110, 32) 44.5753%, rgb(166, 80, 48) 55.5753%, rgb(129, 40, 143) 66.5753%, rgb(166, 80, 48) 77.5753%, rgb(21",
+      "edgeRight": "0px",
+      "edgeWidth": "3px",
+      "opacity": "1",
+      "rect": {
+        "h": 900,
+        "w": 360,
+        "x": 0,
+        "y": 0
+      },
+      "transform": "none"
+    },
+    "stage": {
+      "childClasses": [
+        "works-transition-layer works-transition-layer--preserved",
+        "project-transition-layer project-transition-layer--frozen"
+      ],
+      "className": "work-project-transition is-leaving",
+      "rect": {
+        "h": 900,
+        "w": 1440,
+        "x": 0,
+        "y": 0
+      }
+    },
+    "t": 1790722884887,
+    "transition": {
+      "previewSpans": 0,
+      "projectCloneRect": {
+        "h": 14281,
+        "w": 1440,
+        "x": 677,
+        "y": -9405
+      },
+      "stageMediaItems": 21,
+      "worksCloneRect": {
+        "h": 2453,
+        "w": 1440,
+        "x": -130,
+        "y": -972
+      }
+    }
+  },
+  {
+    "atmosphere": {
+      "bg": "rgba(36, 36, 36, 0.96)",
+      "count": 1,
+      "washBg": "radial-gradient(circle at 22% 28%, rgba(255, 255, 255, 0.075), rgba(0, 0, 0, 0) 24%), radial-gradient(circle at 76% 18%, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0) 18%), radial-gradient(circle at 54% 66%, rgba(255, 255,"
+    },
+    "inner": {
+      "h": 900,
+      "w": 1440
+    },
+    "label": "exit-8",
+    "lenis": null,
+    "live": {
+      "mediaItems": 21,
+      "pinSpacer": 0,
+      "project": true,
+      "showcase": true,
+      "stickyRect": {
+        "h": 900,
+        "w": 1440,
+        "x": 1312,
+        "y": 0
+      },
+      "trackComputedTransform": "matrix(1, 0, 0, 1, -7803.13, 0)",
+      "trackRect": {
+        "h": 900,
+        "w": 12960,
+        "x": -6492,
+        "y": 0
+      },
+      "trackStyleTransform": "translate3d(-7803.13px, 0px, 0px)",
+      "works": true
+    },
+    "path": "/works",
+    "scroller": {
+      "className": "page-transition lenis",
+      "scrollHeight": 2360,
+      "scrollTop": 972
+    },
+    "sidebar": {
+      "className": "sidebar",
+      "edgeBg": "linear-gradient(rgb(255, 115, 0) 0%, rgb(255, 115, 0) 39.5753%, rgb(217, 110, 32) 44.5753%, rgb(166, 80, 48) 55.5753%, rgb(129, 40, 143) 66.5753%, rgb(166, 80, 48) 77.5753%, rgb(21",
+      "edgeRight": "0px",
+      "edgeWidth": "3px",
+      "opacity": "1",
+      "rect": {
+        "h": 900,
+        "w": 360,
+        "x": 0,
+        "y": 0
+      },
+      "transform": "none"
+    },
+    "stage": {
+      "childClasses": [
+        "works-transition-layer works-transition-layer--preserved",
+        "project-transition-layer project-transition-layer--frozen"
+      ],
+      "className": "work-project-transition is-leaving",
+      "rect": {
+        "h": 900,
+        "w": 1440,
+        "x": 0,
+        "y": 0
+      }
+    },
+    "t": 1790722885069,
+    "transition": {
+      "previewSpans": 0,
+      "projectCloneRect": {
+        "h": 14281,
+        "w": 1440,
+        "x": 1312,
+        "y": -9405
+      },
+      "stageMediaItems": 21,
+      "worksCloneRect": {
+        "h": 2453,
+        "w": 1440,
+        "x": -47,
+        "y": -972
+      }
+    }
+  },
+  {
+    "atmosphere": {
+      "bg": "rgba(36, 36, 36, 0.96)",
+      "count": 1,
+      "washBg": "radial-gradient(circle at 22% 28%, rgba(255, 255, 255, 0.075), rgba(0, 0, 0, 0) 24%), radial-gradient(circle at 76% 18%, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0) 18%), radial-gradient(circle at 54% 66%, rgba(255, 255,"
+    },
+    "inner": {
+      "h": 900,
+      "w": 1440
+    },
+    "label": "exit-9",
+    "lenis": null,
+    "live": {
+      "mediaItems": 0,
+      "pinSpacer": 0,
+      "project": false,
+      "showcase": false,
+      "stickyRect": null,
+      "trackComputedTransform": null,
+      "trackRect": null,
+      "trackStyleTransform": "",
+      "works": true
+    },
+    "path": "/works",
+    "scroller": {
+      "className": "page-transition lenis",
+      "scrollHeight": 2360,
+      "scrollTop": 972
+    },
+    "sidebar": {
+      "className": "sidebar",
+      "edgeBg": "linear-gradient(rgb(255, 115, 0) 0%, rgb(255, 115, 0) 39.5753%, rgb(217, 110, 32) 44.5753%, rgb(166, 80, 48) 55.5753%, rgb(129, 40, 143) 66.5753%, rgb(166, 80, 48) 77.5753%, rgb(21",
+      "edgeRight": "0px",
+      "edgeWidth": "3px",
+      "opacity": "1",
+      "rect": {
+        "h": 900,
+        "w": 360,
+        "x": 0,
+        "y": 0
+      },
+      "transform": "none"
+    },
+    "stage": null,
+    "t": 1790722885265,
+    "transition": {
+      "previewSpans": 0,
+      "projectCloneRect": null,
+      "stageMediaItems": 0,
+      "worksCloneRect": null
+    }
+  },
+  {
+    "atmosphere": {
+      "bg": "rgba(36, 36, 36, 0.96)",
+      "count": 1,
+      "washBg": "radial-gradient(circle at 22% 28%, rgba(255, 255, 255, 0.075), rgba(0, 0, 0, 0) 24%), radial-gradient(circle at 76% 18%, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0) 18%), radial-gradient(circle at 54% 66%, rgba(255, 255,"
+    },
+    "inner": {
+      "h": 900,
+      "w": 1440
+    },
+    "label": "exit-10",
+    "lenis": null,
+    "live": {
+      "mediaItems": 0,
+      "pinSpacer": 0,
+      "project": false,
+      "showcase": false,
+      "stickyRect": null,
+      "trackComputedTransform": null,
+      "trackRect": null,
+      "trackStyleTransform": "",
+      "works": true
+    },
+    "path": "/works",
+    "scroller": {
+      "className": "page-transition lenis",
+      "scrollHeight": 2360,
+      "scrollTop": 972
+    },
+    "sidebar": {
+      "className": "sidebar",
+      "edgeBg": "linear-gradient(rgb(255, 115, 0) 0%, rgb(255, 115, 0) 39.5753%, rgb(217, 110, 32) 44.5753%, rgb(166, 80, 48) 55.5753%, rgb(129, 40, 143) 66.5753%, rgb(166, 80, 48) 77.5753%, rgb(21",
+      "edgeRight": "0px",
+      "edgeWidth": "3px",
+      "opacity": "1",
+      "rect": {
+        "h": 900,
+        "w": 360,
+        "x": 0,
+        "y": 0
+      },
+      "transform": "none"
+    },
+    "stage": null,
+    "t": 1790722885452,
+    "transition": {
+      "previewSpans": 0,
+      "projectCloneRect": null,
+      "stageMediaItems": 0,
+      "worksCloneRect": null
+    }
+  },
+  {
+    "atmosphere": {
+      "bg": "rgba(36, 36, 36, 0.96)",
+      "count": 1,
+      "washBg": "radial-gradient(circle at 22% 28%, rgba(255, 255, 255, 0.075), rgba(0, 0, 0, 0) 24%), radial-gradient(circle at 76% 18%, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0) 18%), radial-gradient(circle at 54% 66%, rgba(255, 255,"
+    },
+    "inner": {
+      "h": 900,
+      "w": 1440
+    },
+    "label": "exit-11",
+    "lenis": null,
+    "live": {
+      "mediaItems": 0,
+      "pinSpacer": 0,
+      "project": false,
+      "showcase": false,
+      "stickyRect": null,
+      "trackComputedTransform": null,
+      "trackRect": null,
+      "trackStyleTransform": "",
+      "works": true
+    },
+    "path": "/works",
+    "scroller": {
+      "className": "page-transition lenis",
+      "scrollHeight": 2360,
+      "scrollTop": 972
+    },
+    "sidebar": {
+      "className": "sidebar",
+      "edgeBg": "linear-gradient(rgb(255, 115, 0) 0%, rgb(255, 115, 0) 39.5753%, rgb(217, 110, 32) 44.5753%, rgb(166, 80, 48) 55.5753%, rgb(129, 40, 143) 66.5753%, rgb(166, 80, 48) 77.5753%, rgb(21",
+      "edgeRight": "0px",
+      "edgeWidth": "3px",
+      "opacity": "1",
+      "rect": {
+        "h": 900,
+        "w": 360,
+        "x": 0,
+        "y": 0
+      },
+      "transform": "none"
+    },
+    "stage": null,
+    "t": 1790722885652,
+    "transition": {
+      "previewSpans": 0,
+      "projectCloneRect": null,
+      "stageMediaItems": 0,
+      "worksCloneRect": null
+    }
+  },
+  {
+    "atmosphere": {
+      "bg": "rgba(36, 36, 36, 0.96)",
+      "count": 1,
+      "washBg": "radial-gradient(circle at 22% 28%, rgba(255, 255, 255, 0.075), rgba(0, 0, 0, 0) 24%), radial-gradient(circle at 76% 18%, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0) 18%), radial-gradient(circle at 54% 66%, rgba(255, 255,"
+    },
+    "inner": {
+      "h": 900,
+      "w": 1440
+    },
+    "label": "exit-12",
+    "lenis": null,
+    "live": {
+      "mediaItems": 0,
+      "pinSpacer": 0,
+      "project": false,
+      "showcase": false,
+      "stickyRect": null,
+      "trackComputedTransform": null,
+      "trackRect": null,
+      "trackStyleTransform": "",
+      "works": true
+    },
+    "path": "/works",
+    "scroller": {
+      "className": "page-transition lenis",
+      "scrollHeight": 2360,
+      "scrollTop": 972
+    },
+    "sidebar": {
+      "className": "sidebar",
+      "edgeBg": "linear-gradient(rgb(255, 115, 0) 0%, rgb(255, 115, 0) 39.5753%, rgb(217, 110, 32) 44.5753%, rgb(166, 80, 48) 55.5753%, rgb(129, 40, 143) 66.5753%, rgb(166, 80, 48) 77.5753%, rgb(21",
+      "edgeRight": "0px",
+      "edgeWidth": "3px",
+      "opacity": "1",
+      "rect": {
+        "h": 900,
+        "w": 360,
+        "x": 0,
+        "y": 0
+      },
+      "transform": "none"
+    },
+    "stage": null,
+    "t": 1790722885920,
+    "transition": {
+      "previewSpans": 0,
+      "projectCloneRect": null,
+      "stageMediaItems": 0,
+      "worksCloneRect": null
+    }
+  },
+  {
+    "atmosphere": {
+      "bg": "rgba(36, 36, 36, 0.96)",
+      "count": 1,
+      "washBg": "radial-gradient(circle at 22% 28%, rgba(255, 255, 255, 0.075), rgba(0, 0, 0, 0) 24%), radial-gradient(circle at 76% 18%, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0) 18%), radial-gradient(circle at 54% 66%, rgba(255, 255,"
+    },
+    "inner": {
+      "h": 900,
+      "w": 1440
+    },
+    "label": "exit-13",
+    "lenis": null,
+    "live": {
+      "mediaItems": 0,
+      "pinSpacer": 0,
+      "project": false,
+      "showcase": false,
+      "stickyRect": null,
+      "trackComputedTransform": null,
+      "trackRect": null,
+      "trackStyleTransform": "",
+      "works": true
+    },
+    "path": "/works",
+    "scroller": {
+      "className": "page-transition lenis",
+      "scrollHeight": 2360,
+      "scrollTop": 972
+    },
+    "sidebar": {
+      "className": "sidebar",
+      "edgeBg": "linear-gradient(rgb(255, 115, 0) 0%, rgb(255, 115, 0) 39.5753%, rgb(217, 110, 32) 44.5753%, rgb(166, 80, 48) 55.5753%, rgb(129, 40, 143) 66.5753%, rgb(166, 80, 48) 77.5753%, rgb(21",
+      "edgeRight": "0px",
+      "edgeWidth": "3px",
+      "opacity": "1",
+      "rect": {
+        "h": 900,
+        "w": 360,
+        "x": 0,
+        "y": 0
+      },
+      "transform": "none"
+    },
+    "stage": null,
+    "t": 1790722886120,
+    "transition": {
+      "previewSpans": 0,
+      "projectCloneRect": null,
+      "stageMediaItems": 0,
+      "worksCloneRect": null
+    }
+  },
+  {
+    "atmosphere": {
+      "bg": "rgba(36, 36, 36, 0.96)",
+      "count": 1,
+      "washBg": "radial-gradient(circle at 22% 28%, rgba(255, 255, 255, 0.075), rgba(0, 0, 0, 0) 24%), radial-gradient(circle at 76% 18%, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0) 18%), radial-gradient(circle at 54% 66%, rgba(255, 255,"
+    },
+    "inner": {
+      "h": 900,
+      "w": 1440
+    },
+    "label": "exit-14",
+    "lenis": null,
+    "live": {
+      "mediaItems": 0,
+      "pinSpacer": 0,
+      "project": false,
+      "showcase": false,
+      "stickyRect": null,
+      "trackComputedTransform": null,
+      "trackRect": null,
+      "trackStyleTransform": "",
+      "works": true
+    },
+    "path": "/works",
+    "scroller": {
+      "className": "page-transition lenis",
+      "scrollHeight": 2360,
+      "scrollTop": 972
+    },
+    "sidebar": {
+      "className": "sidebar",
+      "edgeBg": "linear-gradient(rgb(255, 115, 0) 0%, rgb(255, 115, 0) 39.5753%, rgb(217, 110, 32) 44.5753%, rgb(166, 80, 48) 55.5753%, rgb(129, 40, 143) 66.5753%, rgb(166, 80, 48) 77.5753%, rgb(21",
+      "edgeRight": "0px",
+      "edgeWidth": "3px",
+      "opacity": "1",
+      "rect": {
+        "h": 900,
+        "w": 360,
+        "x": 0,
+        "y": 0
+      },
+      "transform": "none"
+    },
+    "stage": null,
+    "t": 1790722886328,
+    "transition": {
+      "previewSpans": 0,
+      "projectCloneRect": null,
+      "stageMediaItems": 0,
+      "worksCloneRect": null
+    }
+  },
+  {
+    "atmosphere": {
+      "bg": "rgba(36, 36, 36, 0.96)",
+      "count": 1,
+      "washBg": "radial-gradient(circle at 22% 28%, rgba(255, 255, 255, 0.075), rgba(0, 0, 0, 0) 24%), radial-gradient(circle at 76% 18%, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0) 18%), radial-gradient(circle at 54% 66%, rgba(255, 255,"
+    },
+    "inner": {
+      "h": 900,
+      "w": 1440
+    },
+    "label": "exit-15",
+    "lenis": null,
+    "live": {
+      "mediaItems": 0,
+      "pinSpacer": 0,
+      "project": false,
+      "showcase": false,
+      "stickyRect": null,
+      "trackComputedTransform": null,
+      "trackRect": null,
+      "trackStyleTransform": "",
+      "works": true
+    },
+    "path": "/works",
+    "scroller": {
+      "className": "page-transition lenis",
+      "scrollHeight": 2360,
+      "scrollTop": 972
+    },
+    "sidebar": {
+      "className": "sidebar",
+      "edgeBg": "linear-gradient(rgb(255, 115, 0) 0%, rgb(255, 115, 0) 39.5753%, rgb(217, 110, 32) 44.5753%, rgb(166, 80, 48) 55.5753%, rgb(129, 40, 143) 66.5753%, rgb(166, 80, 48) 77.5753%, rgb(21",
+      "edgeRight": "0px",
+      "edgeWidth": "3px",
+      "opacity": "1",
+      "rect": {
+        "h": 900,
+        "w": 360,
+        "x": 0,
+        "y": 0
+      },
+      "transform": "none"
+    },
+    "stage": null,
+    "t": 1790722886518,
+    "transition": {
+      "previewSpans": 0,
+      "projectCloneRect": null,
+      "stageMediaItems": 0,
+      "worksCloneRect": null
+    }
+  },
+  {
+    "atmosphere": {
+      "bg": "rgba(36, 36, 36, 0.96)",
+      "count": 1,
+      "washBg": "radial-gradient(circle at 22% 28%, rgba(255, 255, 255, 0.075), rgba(0, 0, 0, 0) 24%), radial-gradient(circle at 76% 18%, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0) 18%), radial-gradient(circle at 54% 66%, rgba(255, 255,"
+    },
+    "inner": {
+      "h": 900,
+      "w": 1440
+    },
+    "label": "exit-16",
+    "lenis": null,
+    "live": {
+      "mediaItems": 0,
+      "pinSpacer": 0,
+      "project": false,
+      "showcase": false,
+      "stickyRect": null,
+      "trackComputedTransform": null,
+      "trackRect": null,
+      "trackStyleTransform": "",
+      "works": true
+    },
+    "path": "/works",
+    "scroller": {
+      "className": "page-transition lenis",
+      "scrollHeight": 2360,
+      "scrollTop": 972
+    },
+    "sidebar": {
+      "className": "sidebar",
+      "edgeBg": "linear-gradient(rgb(255, 115, 0) 0%, rgb(255, 115, 0) 39.5753%, rgb(217, 110, 32) 44.5753%, rgb(166, 80, 48) 55.5753%, rgb(129, 40, 143) 66.5753%, rgb(166, 80, 48) 77.5753%, rgb(21",
+      "edgeRight": "0px",
+      "edgeWidth": "3px",
+      "opacity": "1",
+      "rect": {
+        "h": 900,
+        "w": 360,
+        "x": 0,
+        "y": 0
+      },
+      "transform": "none"
+    },
+    "stage": null,
+    "t": 1790722886742,
+    "transition": {
+      "previewSpans": 0,
+      "projectCloneRect": null,
+      "stageMediaItems": 0,
+      "worksCloneRect": null
+    }
+  },
+  {
+    "atmosphere": {
+      "bg": "rgba(36, 36, 36, 0.96)",
+      "count": 1,
+      "washBg": "radial-gradient(circle at 22% 28%, rgba(255, 255, 255, 0.075), rgba(0, 0, 0, 0) 24%), radial-gradient(circle at 76% 18%, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0) 18%), radial-gradient(circle at 54% 66%, rgba(255, 255,"
+    },
+    "inner": {
+      "h": 900,
+      "w": 1440
+    },
+    "label": "exit-settled",
+    "lenis": null,
+    "live": {
+      "mediaItems": 0,
+      "pinSpacer": 0,
+      "project": false,
+      "showcase": false,
+      "stickyRect": null,
+      "trackComputedTransform": null,
+      "trackRect": null,
+      "trackStyleTransform": "",
+      "works": true
+    },
+    "path": "/works",
+    "scroller": {
+      "className": "page-transition lenis",
+      "scrollHeight": 2360,
+      "scrollTop": 972
+    },
+    "sidebar": {
+      "className": "sidebar",
+      "edgeBg": "linear-gradient(rgb(255, 115, 0) 0%, rgb(255, 115, 0) 39.5753%, rgb(217, 110, 32) 44.5753%, rgb(166, 80, 48) 55.5753%, rgb(129, 40, 143) 66.5753%, rgb(166, 80, 48) 77.5753%, rgb(21",
+      "edgeRight": "0px",
+      "edgeWidth": "3px",
+      "opacity": "1",
+      "rect": {
+        "h": 900,
+        "w": 360,
+        "x": 0,
+        "y": 0
+      },
+      "transform": "none"
+    },
+    "stage": null,
+    "t": 1790722887467,
+    "transition": {
+      "previewSpans": 0,
+      "projectCloneRect": null,
+      "stageMediaItems": 0,
+      "worksCloneRect": null
+    }
+  }
+]

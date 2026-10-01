@@ -1,0 +1,636 @@
+[
+  {
+    "bodyClass": "",
+    "chrome": {
+      "atmosphere": 1,
+      "dots": 1,
+      "railClass": "project-scroll-rail",
+      "railOpacity": "0",
+      "railRect": {
+        "h": 900,
+        "w": 3,
+        "x": 0,
+        "y": 0
+      },
+      "sidebarClass": "sidebar",
+      "sidebarContainsRail": false,
+      "wash": 0
+    },
+    "label": "before-click",
+    "live": {
+      "hero": null,
+      "mediaItems": 0,
+      "project": false,
+      "trackTransform": null,
+      "works": true
+    },
+    "path": "/works",
+    "scroller": {
+      "className": "page-transition lenis",
+      "scrollHeight": 2362,
+      "scrollTop": 1460
+    },
+    "stage": null,
+    "transition": {
+      "frozenProjectLayer": 0,
+      "previewMedia": 0,
+      "projectTransitionLayer": 0,
+      "stageMediaItems": 0
+    }
+  },
+  {
+    "bodyClass": "project-transition-lock project-route-transition-active",
+    "chrome": {
+      "atmosphere": 1,
+      "dots": 1,
+      "railClass": "project-scroll-rail",
+      "railOpacity": "0",
+      "railRect": {
+        "h": 900,
+        "w": 3,
+        "x": 0,
+        "y": 0
+      },
+      "sidebarClass": "sidebar",
+      "sidebarContainsRail": false,
+      "wash": 0
+    },
+    "label": "entry-1",
+    "live": {
+      "hero": null,
+      "mediaItems": 0,
+      "project": false,
+      "trackTransform": null,
+      "works": true
+    },
+    "path": "/work/mighty-demo",
+    "scroller": {
+      "className": "page-transition lenis lenis-scrolling",
+      "scrollHeight": 2360,
+      "scrollTop": 974
+    },
+    "stage": {
+      "children": [
+        "works-transition-layer"
+      ],
+      "className": "work-project-transition is-entering",
+      "rect": {
+        "h": 900,
+        "w": 1440,
+        "x": 0,
+        "y": 0
+      }
+    },
+    "transition": {
+      "frozenProjectLayer": 0,
+      "previewMedia": 0,
+      "projectTransitionLayer": 0,
+      "stageMediaItems": 0
+    }
+  },
+  {
+    "bodyClass": "project-transition-lock project-route-transition-active",
+    "chrome": {
+      "atmosphere": 1,
+      "dots": 1,
+      "railClass": "project-scroll-rail project-scroll-rail--project-mode",
+      "railOpacity": "0.0227413",
+      "railRect": {
+        "h": 900,
+        "w": 3,
+        "x": 0,
+        "y": 0
+      },
+      "sidebarClass": "sidebar sidebar--project-mode",
+      "sidebarContainsRail": false,
+      "wash": 0
+    },
+    "label": "entry-2",
+    "live": {
+      "hero": "Mighty",
+      "mediaItems": 21,
+      "project": true,
+      "trackTransform": "none",
+      "works": true
+    },
+    "path": "/work/mighty-demo",
+    "scroller": {
+      "className": "page-transition page-transition--project-mode lenis",
+      "scrollHeight": 6802,
+      "scrollTop": 0
+    },
+    "stage": {
+      "children": [
+        "works-transition-layer"
+      ],
+      "className": "work-project-transition is-entering",
+      "rect": {
+        "h": 900,
+        "w": 1440,
+        "x": 0,
+        "y": 0
+      }
+    },
+    "transition": {
+      "frozenProjectLayer": 0,
+      "previewMedia": 0,
+      "projectTransitionLayer": 0,
+      "stageMediaItems": 0
+    }
+  },
+  {
+    "bodyClass": "project-transition-lock project-route-transition-active",
+    "chrome": {
+      "atmosphere": 1,
+      "dots": 1,
+      "railClass": "project-scroll-rail project-scroll-rail--project-mode",
+      "railOpacity": "0.9342",
+      "railRect": {
+        "h": 900,
+        "w": 3,
+        "x": 0,
+        "y": 0
+      },
+      "sidebarClass": "sidebar sidebar--project-mode",
+      "sidebarContainsRail": false,
+      "wash": 0
+    },
+    "label": "entry-3",
+    "live": {
+      "hero": "Mighty",
+      "mediaItems": 21,
+      "project": true,
+      "trackTransform": "none",
+      "works": true
+    },
+    "path": "/work/mighty-demo",
+    "scroller": {
+      "className": "page-transition page-transition--project-mode lenis",
+      "scrollHeight": 6802,
+      "scrollTop": 0
+    },
+    "stage": {
+      "children": [
+        "works-transition-layer"
+      ],
+      "className": "work-project-transition is-entering",
+      "rect": {
+        "h": 900,
+        "w": 1440,
+        "x": 0,
+        "y": 0
+      }
+    },
+    "transition": {
+      "frozenProjectLayer": 0,
+      "previewMedia": 0,
+      "projectTransitionLayer": 0,
+      "stageMediaItems": 0
+    }
+  },
+  {
+    "bodyClass": "project-transition-lock project-route-transition-active",
+    "chrome": {
+      "atmosphere": 1,
+      "dots": 1,
+      "railClass": "project-scroll-rail project-scroll-rail--project-mode",
+      "railOpacity": "1",
+      "railRect": {
+        "h": 900,
+        "w": 3,
+        "x": 0,
+        "y": 0
+      },
+      "sidebarClass": "sidebar sidebar--project-mode",
+      "sidebarContainsRail": false,
+      "wash": 0
+    },
+    "label": "entry-4",
+    "live": {
+      "hero": "Mighty",
+      "mediaItems": 21,
+      "project": true,
+      "trackTransform": "none",
+      "works": true
+    },
+    "path": "/work/mighty-demo",
+    "scroller": {
+      "className": "page-transition page-transition--project-mode lenis",
+      "scrollHeight": 6802,
+      "scrollTop": 0
+    },
+    "stage": {
+      "children": [
+        "works-transition-layer"
+      ],
+      "className": "work-project-transition is-entering",
+      "rect": {
+        "h": 900,
+        "w": 1440,
+        "x": 0,
+        "y": 0
+      }
+    },
+    "transition": {
+      "frozenProjectLayer": 0,
+      "previewMedia": 0,
+      "projectTransitionLayer": 0,
+      "stageMediaItems": 0
+    }
+  },
+  {
+    "bodyClass": "project-transition-lock project-route-transition-active",
+    "chrome": {
+      "atmosphere": 1,
+      "dots": 1,
+      "railClass": "project-scroll-rail project-scroll-rail--project-mode",
+      "railOpacity": "1",
+      "railRect": {
+        "h": 900,
+        "w": 3,
+        "x": 0,
+        "y": 0
+      },
+      "sidebarClass": "sidebar sidebar--project-mode",
+      "sidebarContainsRail": false,
+      "wash": 0
+    },
+    "label": "entry-5",
+    "live": {
+      "hero": "Mighty",
+      "mediaItems": 21,
+      "project": true,
+      "trackTransform": "none",
+      "works": true
+    },
+    "path": "/work/mighty-demo",
+    "scroller": {
+      "className": "page-transition page-transition--project-mode lenis",
+      "scrollHeight": 6802,
+      "scrollTop": 0
+    },
+    "stage": {
+      "children": [
+        "works-transition-layer"
+      ],
+      "className": "work-project-transition is-entering",
+      "rect": {
+        "h": 900,
+        "w": 1440,
+        "x": 0,
+        "y": 0
+      }
+    },
+    "transition": {
+      "frozenProjectLayer": 0,
+      "previewMedia": 0,
+      "projectTransitionLayer": 0,
+      "stageMediaItems": 0
+    }
+  },
+  {
+    "bodyClass": "project-transition-lock project-route-transition-active",
+    "chrome": {
+      "atmosphere": 1,
+      "dots": 1,
+      "railClass": "project-scroll-rail project-scroll-rail--project-mode",
+      "railOpacity": "1",
+      "railRect": {
+        "h": 900,
+        "w": 3,
+        "x": 0,
+        "y": 0
+      },
+      "sidebarClass": "sidebar sidebar--project-mode",
+      "sidebarContainsRail": false,
+      "wash": 0
+    },
+    "label": "entry-6",
+    "live": {
+      "hero": "Mighty",
+      "mediaItems": 21,
+      "project": true,
+      "trackTransform": "none",
+      "works": true
+    },
+    "path": "/work/mighty-demo",
+    "scroller": {
+      "className": "page-transition page-transition--project-mode lenis",
+      "scrollHeight": 6802,
+      "scrollTop": 0
+    },
+    "stage": {
+      "children": [
+        "works-transition-layer"
+      ],
+      "className": "work-project-transition is-entering",
+      "rect": {
+        "h": 900,
+        "w": 1440,
+        "x": 0,
+        "y": 0
+      }
+    },
+    "transition": {
+      "frozenProjectLayer": 0,
+      "previewMedia": 0,
+      "projectTransitionLayer": 0,
+      "stageMediaItems": 0
+    }
+  },
+  {
+    "bodyClass": "project-transition-lock project-route-transition-active",
+    "chrome": {
+      "atmosphere": 1,
+      "dots": 1,
+      "railClass": "project-scroll-rail project-scroll-rail--project-mode",
+      "railOpacity": "1",
+      "railRect": {
+        "h": 900,
+        "w": 3,
+        "x": 0,
+        "y": 0
+      },
+      "sidebarClass": "sidebar sidebar--project-mode",
+      "sidebarContainsRail": false,
+      "wash": 0
+    },
+    "label": "entry-7",
+    "live": {
+      "hero": "Mighty",
+      "mediaItems": 21,
+      "project": true,
+      "trackTransform": "none",
+      "works": true
+    },
+    "path": "/work/mighty-demo",
+    "scroller": {
+      "className": "page-transition page-transition--project-mode lenis",
+      "scrollHeight": 6802,
+      "scrollTop": 0
+    },
+    "stage": {
+      "children": [
+        "works-transition-layer"
+      ],
+      "className": "work-project-transition is-entering",
+      "rect": {
+        "h": 900,
+        "w": 1440,
+        "x": 0,
+        "y": 0
+      }
+    },
+    "transition": {
+      "frozenProjectLayer": 0,
+      "previewMedia": 0,
+      "projectTransitionLayer": 0,
+      "stageMediaItems": 0
+    }
+  },
+  {
+    "bodyClass": "project-transition-lock project-route-transition-active",
+    "chrome": {
+      "atmosphere": 1,
+      "dots": 1,
+      "railClass": "project-scroll-rail project-scroll-rail--project-mode",
+      "railOpacity": "1",
+      "railRect": {
+        "h": 900,
+        "w": 3,
+        "x": 0,
+        "y": 0
+      },
+      "sidebarClass": "sidebar sidebar--project-mode",
+      "sidebarContainsRail": false,
+      "wash": 0
+    },
+    "label": "entry-8",
+    "live": {
+      "hero": "Mighty",
+      "mediaItems": 21,
+      "project": true,
+      "trackTransform": "none",
+      "works": true
+    },
+    "path": "/work/mighty-demo",
+    "scroller": {
+      "className": "page-transition page-transition--project-mode lenis",
+      "scrollHeight": 6802,
+      "scrollTop": 0
+    },
+    "stage": {
+      "children": [
+        "works-transition-layer"
+      ],
+      "className": "work-project-transition is-entering",
+      "rect": {
+        "h": 900,
+        "w": 1440,
+        "x": 0,
+        "y": 0
+      }
+    },
+    "transition": {
+      "frozenProjectLayer": 0,
+      "previewMedia": 0,
+      "projectTransitionLayer": 0,
+      "stageMediaItems": 0
+    }
+  },
+  {
+    "bodyClass": "",
+    "chrome": {
+      "atmosphere": 1,
+      "dots": 1,
+      "railClass": "project-scroll-rail project-scroll-rail--project-mode",
+      "railOpacity": "1",
+      "railRect": {
+        "h": 900,
+        "w": 3,
+        "x": 0,
+        "y": 0
+      },
+      "sidebarClass": "sidebar sidebar--project-mode",
+      "sidebarContainsRail": false,
+      "wash": 0
+    },
+    "label": "entry-9",
+    "live": {
+      "hero": "Mighty",
+      "mediaItems": 21,
+      "project": true,
+      "trackTransform": "matrix(1, 0, 0, 1, 0, 0)",
+      "works": false
+    },
+    "path": "/work/mighty-demo",
+    "scroller": {
+      "className": "page-transition page-transition--project-mode lenis",
+      "scrollHeight": 14281,
+      "scrollTop": 0
+    },
+    "stage": null,
+    "transition": {
+      "frozenProjectLayer": 0,
+      "previewMedia": 0,
+      "projectTransitionLayer": 0,
+      "stageMediaItems": 0
+    }
+  },
+  {
+    "bodyClass": "",
+    "chrome": {
+      "atmosphere": 1,
+      "dots": 1,
+      "railClass": "project-scroll-rail project-scroll-rail--project-mode",
+      "railOpacity": "1",
+      "railRect": {
+        "h": 900,
+        "w": 3,
+        "x": 0,
+        "y": 0
+      },
+      "sidebarClass": "sidebar sidebar--project-mode",
+      "sidebarContainsRail": false,
+      "wash": 0
+    },
+    "label": "entry-10",
+    "live": {
+      "hero": "Mighty",
+      "mediaItems": 21,
+      "project": true,
+      "trackTransform": "matrix(1, 0, 0, 1, 0, 0)",
+      "works": false
+    },
+    "path": "/work/mighty-demo",
+    "scroller": {
+      "className": "page-transition page-transition--project-mode lenis",
+      "scrollHeight": 14281,
+      "scrollTop": 0
+    },
+    "stage": null,
+    "transition": {
+      "frozenProjectLayer": 0,
+      "previewMedia": 0,
+      "projectTransitionLayer": 0,
+      "stageMediaItems": 0
+    }
+  },
+  {
+    "bodyClass": "",
+    "chrome": {
+      "atmosphere": 1,
+      "dots": 1,
+      "railClass": "project-scroll-rail project-scroll-rail--project-mode",
+      "railOpacity": "1",
+      "railRect": {
+        "h": 900,
+        "w": 3,
+        "x": 0,
+        "y": 0
+      },
+      "sidebarClass": "sidebar sidebar--project-mode",
+      "sidebarContainsRail": false,
+      "wash": 0
+    },
+    "label": "entry-11",
+    "live": {
+      "hero": "Mighty",
+      "mediaItems": 21,
+      "project": true,
+      "trackTransform": "matrix(1, 0, 0, 1, 0, 0)",
+      "works": false
+    },
+    "path": "/work/mighty-demo",
+    "scroller": {
+      "className": "page-transition page-transition--project-mode lenis",
+      "scrollHeight": 14281,
+      "scrollTop": 0
+    },
+    "stage": null,
+    "transition": {
+      "frozenProjectLayer": 0,
+      "previewMedia": 0,
+      "projectTransitionLayer": 0,
+      "stageMediaItems": 0
+    }
+  },
+  {
+    "bodyClass": "",
+    "chrome": {
+      "atmosphere": 1,
+      "dots": 1,
+      "railClass": "project-scroll-rail project-scroll-rail--project-mode",
+      "railOpacity": "1",
+      "railRect": {
+        "h": 900,
+        "w": 3,
+        "x": 0,
+        "y": 0
+      },
+      "sidebarClass": "sidebar sidebar--project-mode",
+      "sidebarContainsRail": false,
+      "wash": 0
+    },
+    "label": "entry-12",
+    "live": {
+      "hero": "Mighty",
+      "mediaItems": 21,
+      "project": true,
+      "trackTransform": "matrix(1, 0, 0, 1, 0, 0)",
+      "works": false
+    },
+    "path": "/work/mighty-demo",
+    "scroller": {
+      "className": "page-transition page-transition--project-mode lenis",
+      "scrollHeight": 14281,
+      "scrollTop": 0
+    },
+    "stage": null,
+    "transition": {
+      "frozenProjectLayer": 0,
+      "previewMedia": 0,
+      "projectTransitionLayer": 0,
+      "stageMediaItems": 0
+    }
+  },
+  {
+    "bodyClass": "",
+    "chrome": {
+      "atmosphere": 1,
+      "dots": 1,
+      "railClass": "project-scroll-rail project-scroll-rail--project-mode",
+      "railOpacity": "1",
+      "railRect": {
+        "h": 900,
+        "w": 3,
+        "x": 0,
+        "y": 0
+      },
+      "sidebarClass": "sidebar sidebar--project-mode",
+      "sidebarContainsRail": false,
+      "wash": 0
+    },
+    "label": "entry-settled",
+    "live": {
+      "hero": "Mighty",
+      "mediaItems": 21,
+      "project": true,
+      "trackTransform": "matrix(1, 0, 0, 1, 0, 0)",
+      "works": false
+    },
+    "path": "/work/mighty-demo",
+    "scroller": {
+      "className": "page-transition page-transition--project-mode lenis",
+      "scrollHeight": 14281,
+      "scrollTop": 0
+    },
+    "stage": null,
+    "transition": {
+      "frozenProjectLayer": 0,
+      "previewMedia": 0,
+      "projectTransitionLayer": 0,
+      "stageMediaItems": 0
+    }
+  }
+]

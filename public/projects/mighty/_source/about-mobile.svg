@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+        
+    <style>
+      .brand{font:900 30px Montserrat,Arial,sans-serif;letter-spacing:6px}
+      .nav{font:800 15px Work Sans,Arial,sans-serif;letter-spacing:2px}
+      .kicker{font:800 17px Work Sans,Arial,sans-serif;letter-spacing:3px}
+      .serif{font:900 90px Georgia,serif;line-height:1}
+      .serif-sm{font:900 48px Georgia,serif}
+      .body{font:500 27px Work Sans,Arial,sans-serif}
+      .body-sm{font:600 20px Work Sans,Arial,sans-serif}
+      .label{font:800 14px Work Sans,Arial,sans-serif;letter-spacing:2px}
+    </style>
+  
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="2.5" fill="#111111" opacity=".82"/>
+      <circle cx="14" cy="14" r="1.8" fill="#ff5b3d" opacity=".8"/>
+    </pattern>
+  
+        <rect width="390" height="844" fill="#f4f1ec"/>
+        <rect x="128" y="12" width="134" height="24" rx="12" fill="#050505"/>
+        <text x="34" y="82" class="brand" fill="#111111" font-size="22">MIGHTY</text>
+        <text x="302" y="80" class="nav" fill="#111111">WORK</text>
+        <text x="34" y="185" class="serif-sm" fill="#111111">Explore our</text>
+        <text x="34" y="240" class="serif-sm" fill="#111111">projects.</text>
+        <circle cx="300" cy="185" r="100" fill="url(#dots)" opacity=".55"/>
+        <rect x="34" y="335" width="322" height="112" fill="#ffffff"/>
+        <rect x="34" y="335" width="12" height="112" fill="#ffcb00"/>
+        <text x="70" y="382" class="label" fill="#111111">ZONDER HOUSE</text><text x="70" y="420" class="body-sm" fill="#111111">Publishing brand launch</text>
+        <rect x="34" y="482" width="322" height="112" fill="#ffffff"/>
+        <rect x="34" y="482" width="12" height="112" fill="#ffcb00"/>
+        <text x="70" y="529" class="label" fill="#111111">LISTENING ROOM</text><text x="70" y="567" class="body-sm" fill="#111111">Venue story system</text>
+        <rect x="34" y="629" width="322" height="112" fill="#050505"/>
+        <text x="70" y="676" class="label" fill="#ffcb00">MILLWORK</text><text x="70" y="714" class="body-sm" fill="#ffffff">Furniture platform rhythm</text>
+      </svg>

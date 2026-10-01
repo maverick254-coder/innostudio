@@ -1,0 +1,28 @@
+{
+  "files": {
+    "A": "M:\\projects za inno\\websites\\innostudio\\.codex-reference\\phase-c-baseline\\A-works-before-click.png",
+    "B": "M:\\projects za inno\\websites\\innostudio\\.codex-reference\\phase-c-baseline\\B-entry-25.png",
+    "C": "M:\\projects za inno\\websites\\innostudio\\.codex-reference\\phase-c-baseline\\C-entry-60.png",
+    "D": "M:\\projects za inno\\websites\\innostudio\\.codex-reference\\phase-c-baseline\\D-settled-hero.png",
+    "E": "M:\\projects za inno\\websites\\innostudio\\.codex-reference\\phase-c-baseline\\E-project-info.png",
+    "F": "M:\\projects za inno\\websites\\innostudio\\.codex-reference\\phase-c-baseline\\F-showcase-beginning.png",
+    "G": "M:\\projects za inno\\websites\\innostudio\\.codex-reference\\phase-c-baseline\\G-showcase-25.png",
+    "H": "M:\\projects za inno\\websites\\innostudio\\.codex-reference\\phase-c-baseline\\H-showcase-50.png",
+    "I": "M:\\projects za inno\\websites\\innostudio\\.codex-reference\\phase-c-baseline\\I-showcase-75.png",
+    "J": "M:\\projects za inno\\websites\\innostudio\\.codex-reference\\phase-c-baseline\\J-showcase-ending.png",
+    "K": "M:\\projects za inno\\websites\\innostudio\\.codex-reference\\phase-c-baseline\\K-exit-50.png",
+    "L": "M:\\projects za inno\\websites\\innostudio\\.codex-reference\\phase-c-baseline\\L-restored-works.png"
+  },
+  "state": {
+    "path": "/works",
+    "scrollTop": 980,
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    }
+  },
+  "clickPoint": {
+    "x": 646,
+    "y": 447
+  }
+}

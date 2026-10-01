@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+        
+    <style>
+      .brand{font:900 30px Montserrat,Arial,sans-serif;letter-spacing:6px}
+      .nav{font:800 15px Work Sans,Arial,sans-serif;letter-spacing:2px}
+      .kicker{font:800 17px Work Sans,Arial,sans-serif;letter-spacing:3px}
+      .serif{font:900 90px Georgia,serif;line-height:1}
+      .serif-sm{font:900 48px Georgia,serif}
+      .body{font:500 27px Work Sans,Arial,sans-serif}
+      .body-sm{font:600 20px Work Sans,Arial,sans-serif}
+      .label{font:800 14px Work Sans,Arial,sans-serif;letter-spacing:2px}
+    </style>
+  
+    <pattern id="waves" width="120" height="28" patternUnits="userSpaceOnUse">
+      <path d="M0 14 C30 0 60 28 90 14 C105 7 114 6 120 8" fill="none" stroke="#ffffff" stroke-opacity=".14" stroke-width="2"/>
+    </pattern>
+  
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="2.5" fill="#ffcb00" opacity=".82"/>
+      <circle cx="14" cy="14" r="1.8" fill="#ff5b3d" opacity=".8"/>
+    </pattern>
+  
+        <rect width="1440" height="900" fill="#050505"/>
+        
+    <rect x="42" y="36" width="1356" height="38" rx="19" fill="#ffffff" opacity=".08"/>
+    <circle cx="68" cy="55" r="6" fill="#ffffff" opacity=".42"/>
+    <circle cx="88" cy="55" r="6" fill="#ffffff" opacity=".34"/>
+    <circle cx="108" cy="55" r="6" fill="#ffffff" opacity=".26"/>
+  
+    <text x="82" y="130" class="brand" fill="#f7f2e8">MIGHTY</text>
+    <text x="232" y="130" class="nav" fill="#f7f2e8">WORK</text>
+    <text x="312" y="130" class="nav" fill="#f7f2e8">STUDIO</text>
+    <text x="412" y="130" class="nav" fill="#f7f2e8">SERVICES</text>
+    <text x="537" y="130" class="nav" fill="#f7f2e8">CONTACT</text>
+  
+        <rect x="0" y="0" width="1440" height="900" fill="url(#waves)" opacity=".9"/>
+        <circle cx="1120" cy="690" r="260" fill="url(#dots)" opacity=".22"/>
+        <text x="170" y="255" class="kicker" fill="#ffcb00">SERVICES</text>
+        <text x="170" y="390" class="serif" fill="#f7f2e8">Systems for</text>
+        <text x="170" y="482" class="serif" fill="#f7f2e8">launches that</text>
+        <text x="170" y="574" class="serif" fill="#f7f2e8">need momentum.</text>
+        <text x="175" y="660" class="body" fill="#f7f2e8" opacity=".75">Strategy, interface systems, motion direction,</text>
+        <text x="175" y="700" class="body" fill="#f7f2e8" opacity=".75">and front-end craft shaped into a useful site.</text>
+        <rect x="830" y="250" width="210" height="270" fill="none" stroke="#ffffff" stroke-opacity=".24"/>
+        <text x="870" y="388" class="label" fill="#ffcb00">01 RESEARCH</text>
+        <rect x="1065" y="330" width="210" height="270" fill="none" stroke="#ffffff" stroke-opacity=".24"/>
+        <text x="1105" y="468" class="label" fill="#ffcb00">02 INTERFACE</text>
+        <rect x="945" y="590" width="210" height="190" fill="#ffcb00"/>
+        <text x="985" y="696" class="label" fill="#111111">03 RELEASE</text>
+      </svg>

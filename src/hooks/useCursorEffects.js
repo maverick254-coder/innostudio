@@ -19,12 +19,20 @@ export default function useCursorEffects() {
       currentState = state
 
       if (state === 'text') {
+        cursor.classList.remove('project-action')
         cursor.classList.add('enlarged')
         gsap.to(cursor, { scale: 2.7, duration: 0.22, ease: 'power2.out' })
         return
       }
 
       cursor.classList.remove('enlarged')
+      cursor.classList.remove('project-action')
+
+      if (state === 'project') {
+        cursor.classList.add('project-action')
+        gsap.to(cursor, { scale: 2.45, duration: 0.24, ease: 'power2.out' })
+        return
+      }
 
       if (state === 'small') {
         gsap.to(cursor, { scale: 0.25, duration: 0.2, ease: 'power2.out' })
@@ -36,6 +44,12 @@ export default function useCursorEffects() {
 
     const resolveHoverState = (element) => {
       if (!element) return 'default'
+
+      const hasFinePointer = window.matchMedia?.('(pointer: fine)').matches ?? true
+
+      if (hasFinePointer && element.closest('.project-media-interactive, .project-external-link')) {
+        return 'project'
+      }
 
       if (
         element.closest(
